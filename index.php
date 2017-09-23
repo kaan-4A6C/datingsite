@@ -263,45 +263,7 @@
 						<!-- iso box section -->
 						<div class="iso-box-section wow fadeInUp" data-wow-delay="0.9s">
 							<div class="iso-box-wrapper col4-iso-box">
-								<a href="review/50liefde.php" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/50liefde/50liefde-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
-									</div>
-								</a>
-								<a href="review/elitedating.php" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/elitedating/elitedating-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
-									</div>
-								</a>
-								<a href="review/ematching.php" >
-									<div class="iso-box Hetro Gay Secret lunch col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>E-matching</h3>
-									</div>
-								</a>
+
 								<a href="review/victoriamilan.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
@@ -315,32 +277,6 @@
 										<h3>Victoria Milan</h3>
 									</div>
 								</a>
-								<a href="review/pepper.php" >
-									<div class="iso-box  Hetro Gay Eroties lunch col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/pepper/pepper-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
-									</div>
-								</a>
-								<a href="review/erotiekadvertentie.php" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/erotiekadvertentie/erotiekadvertentie-nl-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
-									</div>
-								</a>
 								<a href="review/relatieplanet.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
@@ -352,32 +288,6 @@
 											</div>
 										</div>
 										<h3>Relatieplanet</h3>
-									</div>
-								</a>
-								<a href="review/gayparship.php" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/gayparship/gayparship-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
-									</div>
-								</a>
-								<a href="review/parship.php" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/parship/parship-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>MOET AANGEPAST WORDEN!</h3>
 									</div>
 								</a>
 
@@ -811,32 +721,6 @@
 											</div>
 										</div>
 										<h3>Xclub.nl</h3>
-									</div>
-								</a>
-								<a href="review/gayparship.php" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/gayparship/gayparship-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>Gayparship</h3>
-									</div>
-								</a>
-								<a href="review/parship.php" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
-										<div class="gallery-thumb">
-											<img src="images/parship/parship-logo.jpg" class="fluid-img" alt="Gallery">
-											<div class="gallery-overlay">
-												<div class="gallery-item">
-													<i class="fa fa-search"></i>
-												</div>
-											</div>
-										</div>
-										<h3>Parship</h3>
 									</div>
 								</a>
 							</div>
