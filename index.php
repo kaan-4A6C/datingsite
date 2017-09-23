@@ -277,17 +277,17 @@
 										<h3>Victoria Milan</h3>
 									</div>
 								</a>
-								<a href="review/relatieplanet.php" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+								<a href="review/victoriamilan.php" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/relatieplanet/relatieplanet.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
 												</div>
 											</div>
 										</div>
-										<h3>Relatieplanet</h3>
+										<h3>E-matching</h3>
 									</div>
 								</a>
 
@@ -301,7 +301,7 @@
 												</div>
 											</div>
 										</div>
-										<h3> Alleenstaande-mamas</h3>
+										<h3>Alleenstaande-mamas</h3>
 									</div>
 								</a>
 								<a href="review/elitedating.php" >
@@ -524,6 +524,19 @@
 											</div>
 										</div>
 										<h3>Ondeugende-Mamas</h3>
+									</div>
+								</a>
+								<a href="review/lexa.php" >
+									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/lexa/lexa-logo.jpg" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>Lexa</h3>
 									</div>
 								</a>
 
