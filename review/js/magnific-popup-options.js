@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=function(){$(".image-popup").magnificPopup({type:"image",removalDelay:300,mainClass:"mfp-with-zoom",gallery:{enabled:true},zoom:{enabled:true,duration:300,easing:"ease-in-out",opener:function(b){return b.is("img")?b:b.find("img")}}})};a()});
