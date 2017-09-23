@@ -277,10 +277,10 @@
 										<h3>Victoria Milan</h3>
 									</div>
 								</a>
-								<a href="review/victoriamilan.php" >
+								<a href="review/e-matching.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -304,10 +304,10 @@
 										<h3>Alleenstaande-mamas</h3>
 									</div>
 								</a>
-								<a href="review/elitedating.php" >
+								<a href="review/alleenstaandepapas.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/elitedating/elitedating-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/alleenstaandepapas/alleenstaandepapas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -317,10 +317,10 @@
 										<h3>Alleenstaande-papas</h3>
 									</div>
 								</a>
-								<a href="review/ematching.php" >
+								<a href="review/AshleyMadison.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/AshleyMadison/AshleyMadison.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -330,10 +330,10 @@
 										<h3>AshleyMadison</h3>
 									</div>
 								</a>
-								<a href="review/victoriamilan.php" >
+								<a href="review/Datingeasy.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Datingeasy/Datingeasy.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -343,10 +343,10 @@
 										<h3>Datingeasy</h3>
 									</div>
 								</a>
-								<a href="review/pepper.php" >
+								<a href="review/Findmysex.php" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/pepper/pepper-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Findmysex/Findmysex.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -356,10 +356,10 @@
 										<h3>Findmysex</h3>
 									</div>
 								</a>
-								<a href="review/erotiekadvertentie.php" >
+								<a href="review/Girls-Dating.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/erotiekadvertentie/erotiekadvertentie-nl-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Girls-Dating/GirlsDating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -369,10 +369,10 @@
 										<h3>Girls-Dating</h3>
 									</div>
 								</a>
-								<a href="review/relatieplanet.php" >
+								<a href="review/Guys-Dating.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/relatieplanet/relatieplanet.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Guys-Dating/GuysDating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -382,10 +382,10 @@
 										<h3>Guys-Dating</h3>
 									</div>
 								</a>
-								<a href="review/gayparship.php" >
+								<a href="review/HetGrandCafe.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/gayparship/gayparship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/HetGrandCafe/HetGrandCafe.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -395,10 +395,10 @@
 										<h3>HetGrandCafe</h3>
 									</div>
 								</a>
-								<a href="review/parship.php" >
+								<a href="review/InviteMe.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/parship/parship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/InviteMe/InviteMe.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -409,10 +409,10 @@
 									</div>
 								</a>
 
-								<a href="review/elitedating.php" >
+								<a href="review/KleineMensen-Dating.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/elitedating/elitedating-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/KleineMensenDating/KleineMensenDating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -422,10 +422,10 @@
 										<h3>KleineMensen-Dating</h3>
 									</div>
 								</a>
-								<a href="review/ematching.php" >
+								<a href="review/LangeMensen-Dating.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/LangeMensenDating/LangeMensenDating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -435,10 +435,10 @@
 										<h3>LangeMensen-Dating</h3>
 									</div>
 								</a>
-								<a href="review/victoriamilan.php" >
+								<a href="review/love.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/love/love.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -448,10 +448,10 @@
 										<h3>love.nl</h3>
 									</div>
 								</a>
-								<a href="review/pepper.php" >
+								<a href="review/Maatjemeer-match.php" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/pepper/pepper-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Maatjemeermatch/Maatjemeer-match.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -461,10 +461,10 @@
 										<h3>Maatjemeer-match</h3>
 									</div>
 								</a>
-								<a href="review/erotiekadvertentie.php" >
+								<a href="review/Metjou.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/erotiekadvertentie/erotiekadvertentie-nl-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Metjou/Metjou.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -474,10 +474,10 @@
 										<h3>Metjou</h3>
 									</div>
 								</a>
-								<a href="review/relatieplanet.php" >
+								<a href="review/Milf-Match.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/relatieplanet/relatieplanet.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Milf-Match/Milf-Match.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -487,10 +487,10 @@
 										<h3>Milf-Match</h3>
 									</div>
 								</a>
-								<a href="review/gayparship.php" >
+								<a href="review/Nextlove.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/gayparship/gayparship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Nextlove/Nextlove-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -500,10 +500,10 @@
 										<h3>Nextlove</h3>
 									</div>
 								</a>
-								<a href="review/parship.php" >
+								<a href="review/Ondeugend-daten.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/parship/parship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Ondeugenddaten/Ondeugenddaten.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -513,10 +513,10 @@
 										<h3>Ondeugend-daten</h3>
 									</div>
 								</a>
-								<a href="review/lexa.php" >
+								<a href="review/Ondeugende-Mamas.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/lexa/lexa-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/OndeugendeMamas/OndeugendeMamas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -526,10 +526,10 @@
 										<h3>Ondeugende-Mamas</h3>
 									</div>
 								</a>
-								<a href="review/lexa.php" >
+								<a href="review/Lexa.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/lexa/lexa-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Lexa/Lexa.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -540,10 +540,10 @@
 									</div>
 								</a>
 
-								<a href="review/elitedating.php" >
+								<a href="review/ondeugende-papas.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/elitedating/elitedating-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/ondeugendepapas/ondeugendepapas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -553,10 +553,10 @@
 										<h3>ondeugende-papas</h3>
 									</div>
 								</a>
-								<a href="review/ematching.php" >
+								<a href="review/Piratendating.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Piratendating/Piratendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -566,10 +566,10 @@
 										<h3>Piratendating</h3>
 									</div>
 								</a>
-								<a href="review/victoriamilan.php" >
+								<a href="review/Regiosexcontact.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Regiosexcontact/Regiosexcontact.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -579,10 +579,10 @@
 										<h3>Regiosexcontact</h3>
 									</div>
 								</a>
-								<a href="review/pepper.php" >
+								<a href="review/Regioswingers.php" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/pepper/pepper-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Regioswingers/Regioswingers.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -592,10 +592,10 @@
 										<h3>Regioswingers</h3>
 									</div>
 								</a>
-								<a href="review/erotiekadvertentie.php" >
+								<a href="review/Richmeetbeautiful.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/erotiekadvertentie/erotiekadvertentie-nl-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Richmeetbeautiful/Richmeetbeautiful.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -605,10 +605,10 @@
 										<h3>Richmeetbeautiful</h3>
 									</div>
 								</a>
-								<a href="review/relatieplanet.php" >
+								<a href="review/Runnersdate.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/relatieplanet/relatieplanet.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Runnersdate/Runnersdate.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -618,10 +618,10 @@
 										<h3>Runnersdate</h3>
 									</div>
 								</a>
-								<a href="review/gayparship.php" >
+								<a href="review/Safedatingnetworks.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/gayparship/gayparship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Safedatingnetworks/Safedatingnetwork.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -631,10 +631,10 @@
 										<h3>Safedatingnetworks</h3>
 									</div>
 								</a>
-								<a href="review/parship.php" >
+								<a href="review/Seniorengeluk.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/parship/parship-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Seniorengeluk/Seniorengeluk.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -644,10 +644,10 @@
 										<h3>Seniorengeluk</h3>
 									</div>
 								</a>
-								<a href="review/lexa.php" >
+								<a href="review/SeniorenPassie.php" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/lexa/lexa-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/SeniorenPassie/SeniorenPassie.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -658,10 +658,10 @@
 									</div>
 								</a>
 
-								<a href="review/elitedating.php" >
+								<a href="review/Sexpartner.php" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/elitedating/elitedating-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Sexpartner/Sexpartner.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -671,10 +671,10 @@
 										<h3>Sexpartner.nl</h3>
 									</div>
 								</a>
-								<a href="review/ematching.php" >
+								<a href="review/Sexydatingnetworks.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Sexydatingnetworks/Sexydatingnetworks.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -684,10 +684,10 @@
 										<h3>Sexydatingnetworks</h3>
 									</div>
 								</a>
-								<a href="review/victoriamilan.php" >
+								<a href="review/SmartSingles.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/SmartSingles/SmartSingles-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -697,10 +697,10 @@
 										<h3>SmartSingles</h3>
 									</div>
 								</a>
-								<a href="review/pepper.php" >
+								<a href="review/Stedendating.php" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/pepper/pepper-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Stedendating/Stedendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -710,10 +710,10 @@
 										<h3>Stedendating</h3>
 									</div>
 								</a>
-								<a href="review/erotiekadvertentie.php" >
+								<a href="review/Suikerarrangement.php" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/erotiekadvertentie/erotiekadvertentie-nl-logo.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Suikerarrangement/Suikerarrangament.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
@@ -723,10 +723,10 @@
 										<h3>Suikerarrangament</h3>
 									</div>
 								</a>
-								<a href="review/relatieplanet.php" >
+								<a href="review/Xclub.php" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/relatieplanet/relatieplanet.jpg" class="fluid-img" alt="Gallery">
+											<img src="images/Xclub/Xclub-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>

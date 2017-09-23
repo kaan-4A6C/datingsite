@@ -47,7 +47,7 @@
         <div class="col-md-12 col-sm-12">
           <h1>E-matching</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="http://www.e-matching.nl/datingsite/?tt=523_8722_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>

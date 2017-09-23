@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
   <link rel="stylesheet" href="background/victoriamilan.css">
-  <title>Victoria milan</title>
+  <title>Victoria milan Dating</title>
   <!--
 
     Template 2085 Neuron
@@ -47,7 +47,7 @@
         <div class="col-md-12 col-sm-12">
           <h1>Victoria milan</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="http://tc.tradetracker.net/?c=17991&amp;m=653743&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>

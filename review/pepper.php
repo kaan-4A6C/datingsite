@@ -9,8 +9,8 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="stylesheet" href="background/alleenstaandemamas.css">
-  <title>Alleenstaandemamas Dating</title>
+  <link rel="stylesheet" href="background/pepper.css">
+  <title>Pepper Dating</title>
   <!--
 
     Template 2085 Neuron
@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>Alleenstaandemamas.nl</h1>
+          <h1>Pepper</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
           <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
@@ -129,7 +129,7 @@
           </div>
           <div class="blog-post-thumb">
             <div class="blog-post-title">
-              <h3>Populariteit ★ ★ ★ ★ ★</h3>
+              <h3><a href="single-post.html">Populariteit ★ ★ ★ ★ ★</a></h3>
             </div>
 
             <div class="blog-post-des">
@@ -140,7 +140,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-                <h3>Gebruikersgemak ★ ★ ★</h3>
+                <h3><a href="single-post.html">Gebruikersgemak ★ ★ ★</a></h3>
             </div>
 
             <div class="blog-post-des">
@@ -151,7 +151,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★ ★</h3>
+              <h3><a href="single-post.html">Kosten ★ ★ ★</a></h3>
             </div>
             <div class="blog-post-des">
                 <p>
@@ -162,7 +162,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteit ★ ★ ★</h3>
+              <h3><a href="single-post.html">Functionaliteit ★ ★ ★</a></h3>
             </div>
             <div class="blog-post-des">
                 <p>
@@ -173,7 +173,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★ ★ ★</h3>
+              <h3><a href="single-post.html">Klantenservice ★ ★ ★ ★ ★</a></h3>
             </div>
             <div class="blog-post-des">
                 <p>
@@ -215,7 +215,7 @@
         <?php
             $db = new mysqli("localhost", "root", "", "dating_site");
 
-            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 6";
+            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 2";
 
             if($result = $db->query($query)) {
                 echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
@@ -247,7 +247,7 @@
                      $ip = $_SERVER['REMOTE_ADDR'];
                  }
 
-                 $query = "SELECT * FROM reviews WHERE dating_site_id = 6 AND ip = '$ip'";
+                 $query = "SELECT * FROM reviews WHERE dating_site_id = 2 AND ip = '$ip'";
                  $result = $db->query($query);
                  if ($result->num_rows === 0) {
                     echo $stars;
@@ -314,7 +314,7 @@
 
           $.post('score.php', {
               score: $(this).val(),
-              site: 6
+              site: 2
             })
             .success(function(data) {
               alert('Recensie geplaatst.');
