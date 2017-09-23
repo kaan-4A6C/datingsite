@@ -9,12 +9,11 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="stylesheet" href="background/ematching.css">
-  <title>E-matching Dating</title>
-  <!--
+  <link rel="shortcut icon" href="/datingsite/images/FlirtGids.png">
+  <title>Xclub.nl</title>
+   <!--
 
     Template 2085 Neuron
-
     http://www.tooplate.com/view/2085-neuron
 
     -->
@@ -45,9 +44,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>E-matching</h1>
+          <h1>Xclub.nl</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="http://www.e-matching.nl/datingsite/?tt=523_8722_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="http://www.xclub.nl/dating/?tt=13789_1023242_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>
@@ -129,45 +128,52 @@
           </div>
           <div class="blog-post-thumb">
             <div class="blog-post-title">
-              <h3>Populariteit ★ ★ ★ ★</h3>
+              <h3>Populariteit ★ ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
-              <p>Deze site is een van bekendste sites ter wereld. Je kunt op deze site van alles doen en enorm veel dates regelen en veel plezier hebben. Er wordt geschat dat zij meer dan 400 gebruikers hebben.</p>
-
+              <p>Lexa is waarschijnlijk de meest bekende datingssite die er is. In Nederland behoort In Nederland behoort lexa tot de top 5 populairste datingsites. Wij schatten het aantal leden  rond de 80.000. Lexa is actief in de media, daardoor stijgt de populariteit nog steeds. Wij hebben geen informatie kunnen vinden met betrekking tot de verhouding man en vrouw. Let wel op dat deze datingsite ook actief is in het buitenland dus niet alle leden zijn Nederlands. Overigens kan je dat ook als positief zien als je zelf ook een beetje avontuurlijk bent ingesteld!</p>
+              <br>
             </div>
             <div class="blog-post-title">
               <h3>Gebruikersgemak ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
-              <p>
-                  De inrichting van de site is erg mooi en gebruikersvriendelijk. Zelfs ouderen mensen kunnen deze te gekke site gebruiken en ermee overweg dus. De website wordt als duidelijk beschreven.
-              </p>
-
+            <p>
+                De layout – Lexa heeft een herkenbare eigen stijl. Afbeeldingen en teksten zijn groot en duidelijk. Het design sluit goed aan bij de hedendaagse moderne vormgeving en is daarom zeer prettig.
+                Duidelijkheid – De website is duidelijk. Navigeren door deze datingsite is eenvoudig. Het is een overzichtelijke site.
+            </p>
+              <br>
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteiten ★ ★ ★ ★</h3>
+              <h3>Functionaliteiten ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De site werkt prima en is zoals als gezegd gebruiksvriendelijk. Er zijn verschillende functies beschikbaar zoals chatten etc.</p>
-
+              <p>De hoeveelheid functionaliteiten zijn goed. Leden van Lexa kunnen gebruik maken van de volgende functionaliteiten:</p>
+              <p>Persoonlijkheidstest, Chatten, Flirten met andere leden, Berichten sturen, glimlach, Foto’s, Profielpagina, Profielen bekijken, Uitgebreid zoeken, ijsbreker en een Helpdesk</p>
+              <p>Met Functionaliteiten zoals de ijsbreker en een glimlach kun je eenvoudig een eerste stap zetten naar een nieuw contact.</p>
+              <br>
             </div>
+
             <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★</h3>
+              <h3>Klantenservice ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De klantenservice van erotiekadvertenties kun je bereiken via een speciaal nummer of via de speciale pagina. Wat deze site aanraad is dat je jouw klacht per post aangeeft. Wel per post wordt het snelste gereageerd, denk hierbij aan een wachttijd van ongeveer 2 tot 3 maanden.</p>
+              <p>De klantenservice van Lexa kun je bereiken door gebruik te maken van het contactformulier, via  briefpost of door hun direct te mailen. Het Nederlandse emailadres is support@Lexa.nl . Ervaring leert dat Lexa redelijk snel is met het afhandelen van vragen en klachten afhankelijk van het gebruikte medium. (Schriftelijke correspondentie duurt langer).</p>
+              <p>Lexa adres: Postbus: 10813, 1001 EV Amsterdam, Nederland</p>
+
+              <br>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★</h3>
+              <h3>Kosten ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De prijs kwaliteit verhouding is helaas slecht. Je betaalt helaas een aardig bedrag en wat je hiervoor terug krijgt is helaas niet al te best. Vooral als ik kijk naar andere seks of datings sites word ik verdrietig. Zij bieden een spotgoedkope lidmaatschap aan en hebben ten eerste ook een groter bereik en dus meerdere mogelijkheden om die echte stoute dames te ontmoeten of überhaupt mee in contact te komen.</p>
-
+              <p>De prijs kwaliteit verhouding is redelijk goed. Lexa is zeker niet de goedkoopste datingsite, maar doordat Lexa een van de grootste en populairste datingsite is heeft het een groot aantal leden en dus een prima kans tot een succesvolle date. Aanmelden is gratis en geeft je een goed beeld van hoe de datingsite werkt. Aanmelden verplicht je tot niks.</p>
+              <br>
             </div>
           </div>
         </div>
@@ -180,18 +186,20 @@
         <h2>Wat andere ervan vonden!</h2>
         <hr>
         <p>
-          <h3><b>Erotiekadvertentie</b></h3> Goeiendag iedereen, mijn naam is Rodi Mohammed. Normaal houd ik alleen maar van eigenlijk echte officiële sites. Denk hierbij aan Lexa.nl etc. Ik wou een keer een buitenbeetje proberen en helaas viel dit zwaar tegen! Als je je aanmeld kom je in een super raar portaal terecht met allemaal gay advertenties.
+          <h3><b>Nooit meer Lexa voor mij!</b></h3> Mijn naam is Jan en ik had nog nooit een datingsite gebruikt en ik hoorden veel verhalen over datingssite dus ik besloot het eens serieus te gaan proberen, na een beetje onderzoek te hebben gedaan voor de “beste datingssite” kwam ik uit de
+          Lexa.nl hier waren veel positieve berichten over maar ook veel negatieve. Ik besloot het maar gewoon een kans te geven.
           <br><br>
-          <b>erotiekadvertenties abonnement</b><br>
-          Bij deze site is het mogelijk om dus verschillende abonnementen te krijgen. Je kan  met de diamond membership chatten met stoute dames,
-          je kunt ook tegen betaling afspreken met deze welgenoemde stoute dames. Wat ik wel jammer vindt is dat de abonnementen erg prijzig zijn.
+          <b>Lexa abonnement</b><br> Met Lexa is het mogelijk verschillende abonnenten nemen, je kan bijvoorbeeld met een Lexa Full Membership onbeperkt flirten en chatten, berichten versturen en alle foto's en profielen bekijken. helaas is zo’n abonnement
+          redelijk prijzig (voor de gene die er geen geld aan uit wil besteden heb je ‘gelukkig’ ook een gratis versie). 1 maand Lexa-premium kost € 24,95, dit is afhankelijk van je abonnementsvorm.
           <br><br>
-          <b>Mijn eerste indruk </b><br>De site zag er superleuk en geil uit. Mijn eerste indruk was dus echt top. De zaken hierna vielen helaas erg tegen. Zo denk ik nu aan de accounts maken en het betalen van jouw membership. Ook wat ik erg intimiderend vond was dat je zelfs je opleiding of je huidige baan moest opgeven. Nou eenmaal het account gemaakt, ik even kijken voor stoute dames. Kon er wel een paar vinden maar had de indruk dat veel accounts nep waren. Eenmaal een paar uur later afgesproken met een hele stoute dame. Ik had een leuke kamer gereserveerd en de dame uitgenodigd, bleek het opeens een transgender te zijn! Nou helemaal klaar mee!
+          <b>Mijn eerste indruk </b><br> De site zag er veelbelovend uit en wekte veel aandacht bij mij op, het maken van een account duurde redelijk lang want ze vragen je echt van alles zoals: je geslacht, haarkleur, lengte, je hobby’s, je werk, je
+          inkomen, je opleiding, de talen die je kent en nog veel meer. Dat deel gaat dan alleen over je zelf, je moet ook nog een hele lijst invullen voor wat voor (in mij geval) vrouw je zoekt.
           <br><br>
-          <b>Extra’s</b><br> Een super uniek en speciaal concept wat erotiekadvertenties biedt is dat je ook de dames in het echt kunt ontmoeten. Je kunt deze speciale en sommige dan stoute dames ontmoeten via speciale beurzen die worden gehouden in Amsterdam, Rotterdam en Utrecht.
+          <b>Extra’s</b><br> Gelukkig biedt Lexa hun leden ook de mogelijkheid om elkaar in het echt te ontmoeten via de zogenaamde Lexa Events. Deze events komen (bijna) altijd voor in de grote steden van Nederland (Amsterdam, Rotterdam, Utrecht ect.).
+          Hier worden verschillende dingen gedaan zoals een musea bezoek, gezamenlijk sporten, een kookworkshop en gewoon een gezellige borrel. Hier kwam je af en toe wel mooie vrouwen tegen maar 9 van de 10 keer is hun karakter totaal niet wat ik zoek.
           <br><br>
           <b>Conclusie: </b>
-          <br> De conclusie is als volgt. Ik vind deze site erg onaangenaam omdat je voor het geld wat je betaald niet genoeg voor je waarde krijgt. Ik vind ze oplichters ze vragen enorme bedragen voor hun lidmaatschap. Je hebt vervolgens ook nog eens weinig keus en de site is aardig gebruikersvriendelijk.
+          <br> Ik vind Lexa heel erg enorm teleurstellend als een datingsite, er is veel te weinig keus voor het geld wat je betaald, bovendien is het enige ‘doel’ van lexa om zoveel mogelijk van je af te persen! Het zijn echte oplichter.
         </p>
       </div>
     </div>
@@ -204,7 +212,7 @@
         <?php
             $db = new mysqli("localhost", "root", "", "dating_site");
 
-            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 10";
+            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 1";
 
             if($result = $db->query($query)) {
                 echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
@@ -236,7 +244,7 @@
                      $ip = $_SERVER['REMOTE_ADDR'];
                  }
 
-                 $query = "SELECT * FROM reviews WHERE dating_site_id = 10 AND ip = '$ip'";
+                 $query = "SELECT * FROM reviews WHERE dating_site_id = 1 AND ip = '$ip'";
                  $result = $db->query($query);
                  if ($result->num_rows === 0) {
                     echo $stars;
@@ -272,6 +280,11 @@
 
     <!-- end Star Ratings -->
   </footer>
+
+  <!-- Back top -->
+  <a href="#back-top" class="go-top"><i class="fa fa-angle-up">	&uarr;</i></a>
+
+  <!-- SCRIPTS -->
   <script>
     (function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -282,11 +295,6 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
   </script>
-  <!-- Back top -->
-  <a href="#back-top" class="go-top"><i class="fa fa-angle-up">	&uarr;</i></a>
-
-  <!-- SCRIPTS -->
-
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>
 
@@ -303,7 +311,7 @@
 
           $.post('score.php', {
               score: $(this).val(),
-              site: 10
+              site: 1
             })
             .success(function(data) {
               alert('Recensie geplaatst.');

@@ -44,9 +44,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>HARAAAAAAM BROTHER GO BACK</h1>
+          <h1>Lexa</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="http://tc.tradetracker.net/?c=2971&amp;m=317705&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>
