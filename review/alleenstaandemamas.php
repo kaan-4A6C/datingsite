@@ -9,7 +9,7 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="stylesheet" href="background/alleenstaandemamas.css">
+  <link rel="stylesheet" href="background/alleenstaandemamas/alleenstaandemamas.css">
   <title>Alleenstaandemamas Dating</title>
   <!--
 

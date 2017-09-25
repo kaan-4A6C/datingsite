@@ -9,7 +9,7 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="shortcut icon" href="/datingsite/images/FlirtGids.png">
+  <link rel="stylesheet" href="background/xclub/xclub.css">
   <title>Xclub.nl</title>
    <!--
 

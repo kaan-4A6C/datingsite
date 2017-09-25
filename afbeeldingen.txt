@@ -4,17 +4,3 @@ images/home-bg-slideshow1.jpg - https://unsplash.com/photos/3reWf5Rp4jo
 images/home-bg-slideshow2.jpg - https://unsplash.com/search/photos/love?photo=2X5C8WkyFRo
 images/home-bg-slideshow3.jpg - https://unsplash.com/photos/PD21saozJM0
 images/video-bg.jpg - https://unsplash.com/search/photos/love?photo=QdA543YLg6g
-
-anders:
-
-lexa-logo - https://www.perssupport.nl/uploads/press-news-item/original/f295b31f-efcb-11de-bf0c-672410380b2b.jpg
-parship-logo - https://welkeonlinedatingsite.nl/wp-content/uploads/parship-logo-2017.jpg
-pepper - https://welkeonlinedatingsite.nl/wp-content/uploads/pepper-banner1.jpg
-elitedating - https://welkeonlinedatingsite.nl/wp-content/uploads/elitedating-logo.jpg
-victoria milan - https://mvp.tribesgds.com/dyn/g0/hD/g0hDNQHB5GM/_/tIIyubfFgL0/GWBh/victoria-milan-logo.jpg
-gayparship - https://unsplash.com/photos/wyrT4mWMnJk
-50liefde - https://unsplash.com/photos/rouwHMSWmp0
-victoriamilan - https://unsplash.com/photos/64YRM7OBaE8
-relatieplanet - https://unsplash.com/search/photos/love?photo=d4Urx0Fwj0E
-parship - https://unsplash.com/photos/HL4MRlEyqxU
-e-matching - https://unsplash.com/photos/HL4MRlEyqxU
