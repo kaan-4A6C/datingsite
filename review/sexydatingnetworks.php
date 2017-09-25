@@ -9,12 +9,11 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="stylesheet" href="background/regiosexcontact/regiosexcontact.css">
-  <title>Alleenstaandemamas Dating</title>
-  <!--
+  <link rel="stylesheet" href="background/sexydatingnetworks/sexydatingnetworks.css">
+  <title>RichMeetBeautiful</title>
+   <!--
 
     Template 2085 Neuron
-
     http://www.tooplate.com/view/2085-neuron
 
     -->
@@ -45,9 +44,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>Alleenstaandemamas.nl</h1>
+          <h1>RichMeetBeautiful</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="http://tc.tradetracker.net/?c=26637&amp;m=1167702&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>
@@ -133,59 +132,53 @@
             </div>
 
             <div class="blog-post-des">
-                <p>
-                    Pepper is onlangs verkozen tot beste datingsite van 2017. Het enige minpuntje dan ook is dat er op Pepper enorm veel mensen
-                    zitten van de leeftijdscategorie 25 tot 45 jaar. Daarnaast is Pepper ook nog eens een Nederlandse datingssite.
-                </p>
+              <p>Lexa is waarschijnlijk de meest bekende datingssite die er is. In Nederland behoort In Nederland behoort lexa tot de top 5 populairste datingsites. Wij schatten het aantal leden  rond de 80.000. Lexa is actief in de media, daardoor stijgt de populariteit nog steeds. Wij hebben geen informatie kunnen vinden met betrekking tot de verhouding man en vrouw. Let wel op dat deze datingsite ook actief is in het buitenland dus niet alle leden zijn Nederlands. Overigens kan je dat ook als positief zien als je zelf ook een beetje avontuurlijk bent ingesteld!</p>
               <br>
             </div>
             <div class="blog-post-title">
-                <h3>Gebruikersgemak ★ ★ ★</h3>
+              <h3>Gebruikersgemak ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
-              <p>
-                  Pepper heeft een vrij algemene opmaak. Alles is wel duidelijk te vinden op Pepper, behalve de prijzen voor een Membership.
-                  Voor een Membership moest ik wel eventjes zoeken op de website.
-              </p>
+            <p>
+                De layout – Lexa heeft een herkenbare eigen stijl. Afbeeldingen en teksten zijn groot en duidelijk. Het design sluit goed aan bij de hedendaagse moderne vormgeving en is daarom zeer prettig.
+                Duidelijkheid – De website is duidelijk. Navigeren door deze datingsite is eenvoudig. Het is een overzichtelijke site.
+            </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★ ★</h3>
+              <h3>Functionaliteiten ★ ★ ★ </h3>
             </div>
+
             <div class="blog-post-des">
-                <p>
-                    De kosten van Pepper zijn wel logisch, alleen heeft het vaak ook zijn nadelen.
-                    Stel je wilt het voor 1 maand proberen betaal je 25 euro gelijk. Dat is wel een beetje overdreven vind ik,
-                    aangezien je bij 1 jaar abonnement €8,50 per maand betaald.
-                </p>
+              <p>De hoeveelheid functionaliteiten zijn goed. Leden van Lexa kunnen gebruik maken van de volgende functionaliteiten:</p>
+              <p>Persoonlijkheidstest, Chatten, Flirten met andere leden, Berichten sturen, glimlach, Foto’s, Profielpagina, Profielen bekijken, Uitgebreid zoeken, ijsbreker en een Helpdesk</p>
+              <p>Met Functionaliteiten zoals de ijsbreker en een glimlach kun je eenvoudig een eerste stap zetten naar een nieuw contact.</p>
+              <br>
+            </div>
+
+            <div class="blog-post-title">
+              <h3>Klantenservice ★ ★ ★ ★</h3>
+            </div>
+
+            <div class="blog-post-des">
+              <p>De klantenservice van Lexa kun je bereiken door gebruik te maken van het contactformulier, via  briefpost of door hun direct te mailen. Het Nederlandse emailadres is support@Lexa.nl . Ervaring leert dat Lexa redelijk snel is met het afhandelen van vragen en klachten afhankelijk van het gebruikte medium. (Schriftelijke correspondentie duurt langer).</p>
+              <p>Lexa adres: Postbus: 10813, 1001 EV Amsterdam, Nederland</p>
+
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteit ★ ★ ★</h3>
+              <h3>Kosten ★ ★ ★ </h3>
             </div>
+
             <div class="blog-post-des">
-                <p>
-                    Bij Pepper is het zo dat de klant bij een gratis versie alleen kan liken en matchen met personen.
-                    De gratis versie is dus eigenlijk zeer beperkt aangezien je niet de mogelijkheid hebt om te praten.
-                    Bij een Membership heb je alle mogelijkheden, zoals chatten, mailen, liken en matchen.
-                </p>
-              <br>
-            </div>
-            <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★ ★ ★</h3>
-            </div>
-            <div class="blog-post-des">
-                <p>
-                    De klantenservice van Pepper is enorm goed. De klantenservice is elke dag bereikbaar tot 23:00 uur.
-                    Verder kan je de klantenservice ook nog eens mailen en je hebt de mogelijkheid om contact op te nemen
-                    met behulp van een live chat. Daarnaast worden alle profielen ook nog eens handmatig gecontroleerd.
-                </p>
+              <p>De prijs kwaliteit verhouding is redelijk goed. Lexa is zeker niet de goedkoopste datingsite, maar doordat Lexa een van de grootste en populairste datingsite is heeft het een groot aantal leden en dus een prima kans tot een succesvolle date. Aanmelden is gratis en geeft je een goed beeld van hoe de datingsite werkt. Aanmelden verplicht je tot niks.</p>
               <br>
             </div>
           </div>
         </div>
       </div>
+
   </section>
   <div class="container">
     <div class="row">
@@ -193,16 +186,20 @@
         <h2>Wat andere ervan vonden!</h2>
         <hr>
         <p>
-          <h3><b>Nooit meer Pepper voor mij!</b></h3> Mijn naam is Hicham El Badal. Ik ben 20 jaar oud en ik heb vroeger nooit op een datingssite gezeten. Totdat een aantal vrienden van mij op de datingssite Pepper gingen, besloot ik ook maar eens op Pepper te gaan. Ondanks dat de berichten zowel positief als negatief waren, heb ik besloten om het is te proberen. Alleen ging dit gepaard zonder succes, aangezien er veel mensen op Pepper zitten tussen de 25 en 45 jaar.
+          <h3><b>Nooit meer Lexa voor mij!</b></h3> Mijn naam is Jan en ik had nog nooit een datingsite gebruikt en ik hoorden veel verhalen over datingssite dus ik besloot het eens serieus te gaan proberen, na een beetje onderzoek te hebben gedaan voor de “beste datingssite” kwam ik uit de
+          Lexa.nl hier waren veel positieve berichten over maar ook veel negatieve. Ik besloot het maar gewoon een kans te geven.
           <br><br>
-          <b>Pepper abonnement</b><br> Bij Pepper heb je de mogelijkheid om gratis in te loggen. Met een gratis account heb je alleen de mogelijkheid om je matches te bekijken, te zoeken naar andere Pepper leden en elkaar te liken. Verder heb je nog de mogelijkheid om een Full Membership account aan te maken. Voor een Full Membership zijn de prijzen nogal verschillend. Zo betaal je bij Pepper €25 per maand als je een Membership van 1 maand neemt. Verder heb je nog een Membership van €15 per maand bij een Membership van 3 maanden, een Membership van €9,95 per maand bij een Membership van 6 maanden en heb je als laatste nog een Membership van €8,50 per maand bij een Membership van 1 jaar.
+          <b>Lexa abonnement</b><br> Met Lexa is het mogelijk verschillende abonnenten nemen, je kan bijvoorbeeld met een Lexa Full Membership onbeperkt flirten en chatten, berichten versturen en alle foto's en profielen bekijken. helaas is zo’n abonnement
+          redelijk prijzig (voor de gene die er geen geld aan uit wil besteden heb je ‘gelukkig’ ook een gratis versie). 1 maand Lexa-premium kost € 24,95, dit is afhankelijk van je abonnementsvorm.
           <br><br>
-          <b>Mijn eerste indruk </b><br> De website van Pepper ziet er over het algemeen goed uit. Alles staat duidelijk aangegeven, alleen vind ik dat de prijzen van een Membership niet goed aangegeven staan. Vervolgens ging ik een account maken en een Pepper gratis proberen. Daar kwam dan uit dat ik vervolgens veel mensen kreeg die tussen de 25 en 45 jaar oud waren en dat eigenlijk niet bij mijn leeftijdscategorie hoorde. Het nadeel is wel dat chatten met een match niet kan met de gratis versie. Maar over het algemeen is Pepper een prima site waar je singles op kunt zoeken en eventueel mee kan matchen.
+          <b>Mijn eerste indruk </b><br> De site zag er veelbelovend uit en wekte veel aandacht bij mij op, het maken van een account duurde redelijk lang want ze vragen je echt van alles zoals: je geslacht, haarkleur, lengte, je hobby’s, je werk, je
+          inkomen, je opleiding, de talen die je kent en nog veel meer. Dat deel gaat dan alleen over je zelf, je moet ook nog een hele lijst invullen voor wat voor (in mij geval) vrouw je zoekt.
           <br><br>
-          <b>Extra’s</b><br>Pepper heeft over het algemeen niet veel extra dingen. Zo heb je alleen de mogelijkheid om een Pepper Membership te nemen waardoor je de mogelijkheid hebt om een chat te starten met je match. Verder kan je ook nog kans maken om aan een nieuw tv-programma mee te doen wat binnenkort te zien is op Net5. Het programma heet Veel liefs uit Holland. Hier kunnen 10 mensen aan meedoen.
+          <b>Extra’s</b><br> Gelukkig biedt Lexa hun leden ook de mogelijkheid om elkaar in het echt te ontmoeten via de zogenaamde Lexa Events. Deze events komen (bijna) altijd voor in de grote steden van Nederland (Amsterdam, Rotterdam, Utrecht ect.).
+          Hier worden verschillende dingen gedaan zoals een musea bezoek, gezamenlijk sporten, een kookworkshop en gewoon een gezellige borrel. Hier kwam je af en toe wel mooie vrouwen tegen maar 9 van de 10 keer is hun karakter totaal niet wat ik zoek.
           <br><br>
           <b>Conclusie: </b>
-          <br>Pepper is over het algemeen wel een prima datingsite. Alleen geld dit voor de leeftijdscategorie van 25 tot 45 jaar. Aangezien er 80% van die leeftijdscategorie op Pepper zit. Het is wel enorm.
+          <br> Ik vind Lexa heel erg enorm teleurstellend als een datingsite, er is veel te weinig keus voor het geld wat je betaald, bovendien is het enige ‘doel’ van lexa om zoveel mogelijk van je af te persen! Het zijn echte oplichter.
         </p>
       </div>
     </div>
@@ -215,7 +212,7 @@
         <?php
             $db = new mysqli("localhost", "root", "", "dating_site");
 
-            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 23";
+            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 32";
 
             if($result = $db->query($query)) {
                 echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
@@ -247,7 +244,7 @@
                      $ip = $_SERVER['REMOTE_ADDR'];
                  }
 
-                 $query = "SELECT * FROM reviews WHERE dating_site_id = 23 AND ip = '$ip'";
+                 $query = "SELECT * FROM reviews WHERE dating_site_id = 32 AND ip = '$ip'";
                  $result = $db->query($query);
                  if ($result->num_rows === 0) {
                     echo $stars;
@@ -314,7 +311,7 @@
 
           $.post('score.php', {
               score: $(this).val(),
-              site: 23
+              site: 32
             })
             .success(function(data) {
               alert('Recensie geplaatst.');
