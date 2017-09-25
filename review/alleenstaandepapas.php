@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
   <link rel="stylesheet" href="background/alleenstaandepapas/alleenstaandepapas.css">
-  <title>E-matching Dating</title>
+  <title>Alleenstaande-papas</title>
   <!--
 
     Template 2085 Neuron
@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>E-matching</h1>
+          <h1>Alleenstaande-papas</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
           <a href="http://www.e-matching.nl/datingsite/?tt=523_8722_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>

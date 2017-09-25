@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
   <link rel="stylesheet" href="background/datingeasy/datingeasy.css">
-  <title>Alleenstaandemamas Dating</title>
+  <title>Datingeasy</title>
   <!--
 
     Template 2085 Neuron

@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
   <link rel="stylesheet" href="background/girlsdating/girlsdating.css">
-  <title>Alleenstaandemamas Dating</title>
+  <title>Girls-dating</title>
   <!--
 
     Template 2085 Neuron
@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>Alleenstaandemamas.nl</h1>
+          <h1>Girls-dating</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
           <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
