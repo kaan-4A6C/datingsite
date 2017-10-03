@@ -341,7 +341,7 @@
 										<h3>Datingeasy</h3>
 									</div>
 								</a>
-								<a href="review/Findmysex" >
+								<a href="review/findmysex" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/findmysex/findmysex.png" class="fluid-img" alt="Gallery">
