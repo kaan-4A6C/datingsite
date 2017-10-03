@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
   <link rel="stylesheet" href="background/sexydatingnetworks/sexydatingnetworks.css">
-  <title>RichMeetBeautiful</title>
+  <title>Sexydatingnetworks</title>
    <!--
 
     Template 2085 Neuron
@@ -44,7 +44,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>RichMeetBeautiful</h1>
+          <h1>Sexydatingnetworks</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
           <a href="http://tc.tradetracker.net/?c=26637&amp;m=1167702&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
@@ -212,7 +212,7 @@
         <?php
             $db = new mysqli("localhost", "root", "", "dating_site");
 
-            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 32";
+            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 1";
 
             if($result = $db->query($query)) {
                 echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
@@ -244,7 +244,7 @@
                      $ip = $_SERVER['REMOTE_ADDR'];
                  }
 
-                 $query = "SELECT * FROM reviews WHERE dating_site_id = 32 AND ip = '$ip'";
+                 $query = "SELECT * FROM reviews WHERE dating_site_id = 1 AND ip = '$ip'";
                  $result = $db->query($query);
                  if ($result->num_rows === 0) {
                     echo $stars;
@@ -311,7 +311,7 @@
 
           $.post('score.php', {
               score: $(this).val(),
-              site: 32
+              site: 1
             })
             .success(function(data) {
               alert('Recensie geplaatst.');

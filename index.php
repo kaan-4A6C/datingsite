@@ -746,6 +746,71 @@
 										<h3>Secondlove.nl</h3>
 									</div>
 								</a>
+								<a href="review/novamora" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/novamora/novamora-filter.png" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>Novamora.nl</h3>
+									</div>
+								</a>
+								<a href="review/vijftigplusdating" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/vijftigplusdating/vijftigplusdating-filter.png" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>Vijftigplusdating</h3>
+									</div>
+								</a>
+								<a href="review/relatieplanet" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/relatieplanet/relatieplanet-filter.png" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>Relatieplanet</h3>
+									</div>
+								</a>
+								<a href="review/40plusrelatie" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/40plusrelatie/40plusrelatie-filter.png" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>40plusrelatie</h3>
+									</div>
+								</a>
+								<a href="review/secondlove" >
+									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+										<div class="gallery-thumb">
+											<img src="images/adultmatch/adultmatch-filter.png" class="fluid-img" alt="Gallery">
+											<div class="gallery-overlay">
+												<div class="gallery-item">
+													<i class="fa fa-search"></i>
+												</div>
+											</div>
+										</div>
+										<h3>Adultmatch.nl</h3>
+									</div>
+								</a>
 							</div>
 						</div>
 					</div>
