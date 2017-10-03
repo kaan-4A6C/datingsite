@@ -328,7 +328,7 @@
 										<h3>AshleyMadison</h3>
 									</div>
 								</a>
-								<a href="review/Datingeasy" >
+								<a href="review/datingeasy" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/datingeasy/datingeasy.jpg" class="fluid-img" alt="Gallery">
@@ -707,7 +707,7 @@
 										<h3>Stedendating</h3>
 									</div>
 								</a>
-								<a href="review/suikerarrangement" >
+								<a href="review\suikerarragement" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/suikerarrangement/suikerarrangament.png" class="fluid-img" alt="Gallery">
@@ -798,10 +798,10 @@
 										<h3>40plusrelatie</h3>
 									</div>
 								</a>
-								<a href="review/secondlove" >
+								<a href="review/adultmatch" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
-											<img src="images/adultmatch/adultmatch-filter.png" class="fluid-img" alt="Gallery">
+											<img src="images/adultmatch/Adultmatch-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
 												<div class="gallery-item">
 													<i class="fa fa-search"></i>
