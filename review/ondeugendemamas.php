@@ -215,7 +215,8 @@
         <?php
             $db = new mysqli("localhost", "root", "", "dating_site");
 
-            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 6";
+            $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id =
+20";
 
             if($result = $db->query($query)) {
                 echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
@@ -247,7 +248,8 @@
                      $ip = $_SERVER['REMOTE_ADDR'];
                  }
 
-                 $query = "SELECT * FROM reviews WHERE dating_site_id = 6 AND ip = '$ip'";
+                 $query = "SELECT * FROM reviews WHERE dating_site_id =
+20 AND ip = '$ip'";
                  $result = $db->query($query);
                  if ($result->num_rows === 0) {
                     echo $stars;
@@ -314,7 +316,8 @@
 
           $.post('score.php', {
               score: $(this).val(),
-              site: 6
+              site:
+20
             })
             .success(function(data) {
               alert('Recensie geplaatst.');
