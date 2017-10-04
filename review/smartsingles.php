@@ -60,7 +60,7 @@
 
         <div class="col-md-offset-1 col-md-10 col-sm-12">
 
-          <div class="panel panel-default" style="position:relative">
+<div class="panel panel-default tableStyle" style="position:fixed ">
             <div class="panel-heading">Opties</div>
             <div class="panel-body">
               <table class="w3-table-all">
