@@ -47,7 +47,7 @@
         <div class="col-md-12 col-sm-12">
           <h1>HetGrandCafe</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="http://www.hetgrandcafe.nl/dating/?tt=5843_199393_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>
