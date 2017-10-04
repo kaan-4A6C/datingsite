@@ -315,7 +315,7 @@
 										<h3>Alleenstaande-papas</h3>
 									</div>
 								</a>
-								<a href="review/AshleyMadison" >
+								<a href="review/ashleymadison" >
 									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/ashleymadison/ashleymadison.jpg" class="fluid-img" alt="Gallery">
@@ -380,7 +380,7 @@
 										<h3>Guys-Dating</h3>
 									</div>
 								</a>
-								<a href="review/HetGrandCafe" >
+								<a href="review/hetgrandcafe" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/hetgrandcafe/hetgrandcafe.png" class="fluid-img" alt="Gallery">
@@ -445,7 +445,7 @@
 										<h3>love.nl</h3>
 									</div>
 								</a>
-								<a href="review/Maatjemeer-match" >
+								<a href="review/maatjemeer-match" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/maatjemeermatch/maatjemeer-match.png" class="fluid-img" alt="Gallery">
@@ -458,7 +458,7 @@
 										<h3>Maatjemeer-match</h3>
 									</div>
 								</a>
-								<a href="review/Metjou" >
+								<a href="review/metjou" >
 									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/metjou/metjou.png" class="fluid-img" alt="Gallery">
@@ -484,7 +484,7 @@
 										<h3>Milf-Match</h3>
 									</div>
 								</a>
-								<a href="review/Nextlove" >
+								<a href="review/nextlove" >
 									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/nextlove/nextlove-logo.png" class="fluid-img" alt="Gallery">
@@ -523,7 +523,7 @@
 										<h3>Ondeugende-Mamas</h3>
 									</div>
 								</a>
-								<a href="review/Lexa" >
+								<a href="review/lexa" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/lexa/lexa.png" class="fluid-img" alt="Gallery">
@@ -641,7 +641,7 @@
 										<h3>Seniorengeluk</h3>
 									</div>
 								</a>
-								<a href="review/seniorenPassie" >
+								<a href="review/seniorenpassie" >
 									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/seniorenpassie/seniorenpassie.png" class="fluid-img" alt="Gallery">

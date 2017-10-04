@@ -213,7 +213,7 @@
     <h2 class="text-center">Facebook comments</h2>
     <div class="text-center">
         <?php
-            $db = new mysqli("localhost", "root", "", "dating_site");
+                $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");
 
             $query = "SELECT AVG(rating) / 10 as 'avg' FROM reviews WHERE dating_site_id = 22";
 
