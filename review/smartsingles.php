@@ -46,7 +46,7 @@
         <div class="col-md-12 col-sm-12">
           <h1>SmartSingles</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="http://tc.tradetracker.net/?c=24043&amp;m=1036534&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="http://tc.tradetracker.net/?c=24043&amp;m=1036535&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>

@@ -47,7 +47,7 @@
         <div class="col-md-12 col-sm-12">
           <h1>Vijftigplusdating</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
-          <a href="#blog" class="smoothScroll btn btn-default">schrijf je nu in!</a>
+          <a href="https://www.vijftigplusdating.nl/dating/?tt=20603_774619_288654_&amp;r=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
       </div>
     </div>
