@@ -821,48 +821,37 @@
 	<!-- Contact section -->
 	<section id="contact" class="parallax-section">
 		<div class="section-content">
-			<h3 class="section-header txt-color-white" >Neem contact<span class="content-header wow fadeIn " data-wow-delay="0.2s" data-wow-duration="2s"> met ons op</span></h3>
+			<h2 class="section-header txt-color-white">Neem contact met ons op</h2></span><br><br>
 		</div>
 		<div class="contact-section">
 		<div class="container">
-<<<<<<< HEAD
-			<form>
+			<form action="verwerk.php" method="post">
 				<div class="col-md-6 form-line">
 						<div class="form-group">
-							<label for="exampleInputUsername" class="txt-color-white">Uw naam</label>
-							<input type="text" class="form-control" id="" placeholder=" Naam">
+							<label class="txt-color-white">Uw naam *</label>
+							<input required type="text" class="form-control" name="first_name" placeholder=" Naam">
 						</div>
 						<div class="form-group">
-							<label for="exampleInputEmail" class="txt-color-white">Email adres</label>
-							<input type="email" class="form-control" id="exampleInputEmail" placeholder="Email adres">
+							<label class="txt-color-white">Email adres *</label>
+							<input required type="email" class="form-control"  name="email" placeholder="Email adres">
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="form-group">
-							<label for ="description" class="txt-color-white">Bericht</label>
-							<textarea  style="min-height:109px" class="form-control" id="description" placeholder="Uw bericht"></textarea>
+							<label class="txt-color-white">Bericht *</label>
+							<textarea required style="min-height:109px" class="form-control" name="comments"  placeholder="Uw bericht"></textarea>
 						</div>
 				</div>
 				<div class="center-text">
-					<button type="button" class="btn btn-primary"><i class="fa fa-paper-plane" aria-hidden="true"></i> Verstuur</button>
-=======
-			<div class="container">
-				<div class="panel panel-primary" style="position:relative">
-					<div class="panel-heading">Plaats hier een reactie!</div>
-					<div class="panel-body">
-						<div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
-					</div>
->>>>>>> 83e968cdcdc81d6e92301babfcd466109d5fcd95
-				</div>
+				<input type="submit" name="send" type="button" value="Verstuur" class="btn btn-primary">
 			</form>
-		</div>
-	</section>
 
+	</section>
 	<!-- Footer section -->
 	<footer>
 		<div class="container">
 			<div class="panel panel-primary" style="position:relative">
-				<div class="panel-heading">Plaats hier een reactie</div>
+				<div class="panel-heading text-center">Plaats hier een reactie</div>
 				<div class="panel-body">
 					<div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
 				</div>
@@ -885,7 +874,7 @@
 			<div class="row">
 
 				<div class="col-md-8 col-sm-8 col-xs-8">
-					<p>Copyright © <a href="HIER MOET NOG EEN LINK!">Succesmedia</a>
+					<p>Copyright © <a href="HIER MOET NOG EEN LINK!">Succesmedia</a> | Designed by Kaan & Abuzar
 						<!-- <a class="designed-by" href="https://plus.google.com/+Tooplate/" >Tooplate</a></p> -->
 				</div>
 				<div class="col-md-4 col-sm-4 text-right">
