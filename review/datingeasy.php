@@ -45,7 +45,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <h1>Alleenstaandemamas.nl</h1>
+          <h1>Datingeasy</h1>
           <!-- <h4>lorem ipsum en nog iets extra want anders word het te kort</h4> -->
           <a href="http://tc.tradetracker.net/?c=5778&amp;m=199080&amp;a=288654&amp;r=&amp;u=" class="smoothScroll btn btn-default">schrijf je nu in!</a>
         </div>
@@ -210,7 +210,7 @@
   </div>
   <div class="container text-center">
 
-    <h2 class="text-center">Facebook comments</h2>
+
     <div class="text-center">
         <?php
                 $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");
@@ -255,7 +255,7 @@
              ?>
       <hr>
       <div class="panel panel-primary" style="position:relative">
-        <div class="panel-heading">Facebook comments</div>
+        <div class="panel-heading">Plaats een reactie</div>
         <div class="panel-body">
           <div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
         </div>

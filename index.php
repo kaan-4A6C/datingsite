@@ -72,8 +72,8 @@
 					<li><a href="#top" class="smoothScroll">Home</a></li>
 					<li><a href="#menu" class="smoothScroll">Top 10</a></li>
 
-					<li><a href="#gallery" class="smoothScroll">Vergelijker</a></li>
-					<li><a href="#contact" class="smoothScroll">Recensie</a></li>
+					<li><a href="#gallery" class="smoothScroll">Filter</a></li>
+					<li><a href="#contact" class="smoothScroll">Contact</a></li>
 
 				</ul>
 			</div>
@@ -112,7 +112,7 @@
 								Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 								You don't get sick, I do. That's also clear.
 								<br><br>
-							<a href="review/richmeetbeautiful"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/richmeetbeautiful"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 							</div>
 						</div>
 					<div class="media wow fadeInUp" data-wow-delay="0.5s">
@@ -124,7 +124,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/lexa"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/lexa"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 					<div class="media wow fadeInUp" data-wow-delay="0.5s">
@@ -136,7 +136,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/ematching"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/ematching"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 					</div>
@@ -151,7 +151,7 @@
 								Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 								You don't get sick, I do. That's also clear.
 								<br><br>
-								<a href="review/sexpartner"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+								<a href="review/sexpartner"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 							</div>
 						</div>
 
@@ -164,7 +164,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/love"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/love"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 					<div class="media wow fadeInUp" data-wow-delay="0.5s">
@@ -176,7 +176,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/xclub"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/xclub"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 					</div>
@@ -190,7 +190,7 @@
 								Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 								You don't get sick, I do. That's also clear.
 								<br><br>
-								<a href="review/victoriamilan"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+								<a href="review/victoriamilan"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 							</div>
 						</div>
 						<div class="media wow fadeInUp" data-wow-delay="0.5s">
@@ -202,7 +202,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/smartsingles"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/smartsingles"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 					</div>
@@ -216,7 +216,7 @@
 								Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 								You don't get sick, I do. That's also clear.
 								<br><br>
-								<a href="review/metjou"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+								<a href="review/metjou"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 							</div>
 						</div>
 					<div class="media wow fadeInUp" data-wow-delay="0.5s">
@@ -228,7 +228,7 @@
 							Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine.
 							You don't get sick, I do. That's also clear.
 							<br><br>
-							<a href="review/ondeugenddaten"><button type="button" class="btn btn-primary">&#9998; Schrijf je nu in  </button></a>
+							<a href="review/ondeugenddaten"><button type="button" class="btn btn-primary">&#9998; Meer info  </button></a>
 						</div>
 					</div>
 				</div>
@@ -244,8 +244,7 @@
 				<div class="col-md-12">
 					<div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
 						<div class="wow fadeInUp section-title" data-wow-delay="0.3s">
-							<h2>Vergelijker</h2>
-							<h4>Filter sexuele geaardheid</h4>
+							<h2>Filter</h2>
 						</div>
 					</div>
 
@@ -445,7 +444,7 @@
 										<h3>love.nl</h3>
 									</div>
 								</a>
-								<a href="review/maatjemeer-match" >
+								<a href="review/maatjemeermatch" >
 									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/maatjemeermatch/maatjemeer-match.png" class="fluid-img" alt="Gallery">
@@ -823,16 +822,9 @@
 	<section id="contact" class="parallax-section">
 		<div class="overlay"></div>
 		<div class="container">
-			<div class="row">
-				<div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-					<div class="wow fadeInUp section-title" data-wow-delay="0.3">
-						<h2>Comment op Facebook</h2>
-					</div>
-				</div>
-			</div>
 			<div class="container">
 				<div class="panel panel-primary" style="position:relative">
-					<div class="panel-heading">Facebook comments</div>
+					<div class="panel-heading">Plaats hier een reactie!</div>
 					<div class="panel-body">
 						<div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
 					</div>
@@ -847,7 +839,7 @@
 
 				<div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
 					<h3>Flirtgids</h3>
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat ipsum.</p>
+					<p>hier komen de widgets!</p>
 				</div>
 			</div>
 		</div>
@@ -859,11 +851,11 @@
 			<div class="row">
 
 				<div class="col-md-8 col-sm-8 col-xs-8">
-					<p>Copyright © impact4roi Company - Designed by Kaan & Abuzar
+					<p>Copyright © <a href="HIER MOET NOG EEN LINK!">Succesmedia</a>
 						<!-- <a class="designed-by" href="https://plus.google.com/+Tooplate/" >Tooplate</a></p> -->
 				</div>
 				<div class="col-md-4 col-sm-4 text-right">
-					<a href="#home" class="fa fa-angle-up smoothScroll gototop"></a>
+					<a href="#" class="fa fa-angle-up smoothScroll gototop"></a>
 				</div>
 
 			</div>

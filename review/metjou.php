@@ -207,7 +207,7 @@
   </div>
   <div class="container text-center">
 
-    <h2 class="text-center">Facebook comments</h2>
+
     <div class="text-center">
         <?php
             $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");
@@ -252,7 +252,7 @@
              ?>
       <hr>
       <div class="panel panel-primary" style="position:relative">
-        <div class="panel-heading">Facebook comments</div>
+        <div class="panel-heading">Plaats een reactie</div>
         <div class="panel-body">
           <div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
         </div>
