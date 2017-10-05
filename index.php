@@ -821,27 +821,45 @@
 
 	<!-- Contact section -->
 	<section id="contact" class="parallax-section">
-		<div class="overlay"></div>
+		<div class="section-content">
+			<h3 class="section-header txt-color-white" >Neem contact<span class="content-header wow fadeIn " data-wow-delay="0.2s" data-wow-duration="2s"> met ons op</span></h3>
+		</div>
+		<div class="contact-section">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-					<div class="wow fadeInUp section-title" data-wow-delay="0.3">
-						<h2>Comment op Facebook</h2>
+			<form>
+				<div class="col-md-6 form-line">
+						<div class="form-group">
+							<label for="exampleInputUsername" class="txt-color-white">Uw naam</label>
+							<input type="text" class="form-control" id="" placeholder=" Naam">
+						</div>
+						<div class="form-group">
+							<label for="exampleInputEmail" class="txt-color-white">Email adres</label>
+							<input type="email" class="form-control" id="exampleInputEmail" placeholder="Email adres">
+						</div>
 					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for ="description" class="txt-color-white">Bericht</label>
+							<textarea  style="min-height:109px" class="form-control" id="description" placeholder="Uw bericht"></textarea>
+						</div>
 				</div>
-			</div>
-			<div class="container">
-				<div class="panel panel-primary" style="position:relative">
-					<div class="panel-heading">Facebook comments</div>
-					<div class="panel-body">
-						<div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
-					</div>
+				<div class="center-text">
+					<button type="button" class="btn btn-primary"><i class="fa fa-paper-plane" aria-hidden="true"></i> Verstuur</button>
 				</div>
-			</div>
+			</form>
+		</div>
 	</section>
 
 	<!-- Footer section -->
 	<footer>
+		<div class="container">
+			<div class="panel panel-primary" style="position:relative">
+				<div class="panel-heading">Plaats hier een reactie</div>
+				<div class="panel-body">
+					<div class="fb-comments" data-href="https://www.facebook.com/FlirtGids-124043518251469/" data-width="100%" data-numposts="1"></div>
+				</div>
+			</div>
+		</div>
 		<div class="container">
 			<div class="row">
 
