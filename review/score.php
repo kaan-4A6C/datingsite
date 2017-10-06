@@ -12,7 +12,9 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
     $ip = $_SERVER['REMOTE_ADDR'];
 }
 
-$db = new PDO('mysql:dbname=dating_site;host=localhost', 'root', '');
+$db = new PDO('mysql:dbname=dbbb_flirtjessgidss;host=localhost', 'flirtengidsjes', 'Jx&76nxhyEq3vqZl');
+
+
 
 $query = $db->prepare('INSERT INTO reviews (rating, dating_site_id, ip) VALUES (?, ?, ?)');
 $query->bindValue(1, $_POST['score'] * 10);
