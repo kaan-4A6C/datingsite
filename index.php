@@ -144,7 +144,7 @@
 					<div class="col-md-6 col-sm-12">
 						<div class="media wow fadeInUp" data-wow-delay="0.5s">
 							<div class="media-object pull-left">
-								<a href="sexpartner"><img src="images/sexpartner/sexpartner.jpg" class="img-responsive" alt="sexpartner"></a>
+								<a href="review/sexpartner"><img src="images/sexpartner/sexpartner.jpg" class="img-responsive" alt="sexpartner"></a>
 							</div>
 							<div class="media-body">
 								<h3 class="media-heading">Sexpartner</h3>
@@ -842,7 +842,7 @@
 							<textarea required style="min-height:109px" class="form-control" name="comments"  placeholder="Uw bericht"></textarea>
 						</div>
 				</div>
-				<div class="center-text">
+				<div class="center-text"><br>
 				<input type="submit" name="send" type="button" value="Verstuur" class="btn btn-primary">
 			</form>
 
@@ -859,10 +859,12 @@
 		</div>
 		<div class="container">
 			<div class="row">
-
+				<br>
 				<div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
-					<h3>Flirtgids</h3>
-					<p>hier komen de widgets!</p>
+					<h3>Volg ons ook op social media!</h3>
+					<a href="#"><i class="fa fa-instagram icon"></i></a>
+					<a href="#"><i class="fa fa-twitter icon"></i></a>
+					<a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
 				</div>
 			</div>
 		</div>

@@ -124,6 +124,8 @@
                     € 13.75 p.m.</td>
                 </tr>
               </table>
+              <br>
+              <a href="#"><button class="btn btn-custom col-md-12">Schrijf je nu in!</button></a>
             </div>
           </div>
           <div class="blog-post-thumb">

@@ -1,4 +1,6 @@
 RewriteEngine on
 
+RewriteRule ^review/(.*)$ review/$1 [L,NC,R]
+
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.+)$ $1.php [L,NC,QSA]

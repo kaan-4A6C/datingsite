@@ -125,6 +125,9 @@
                     € 13.75 p.m.</td>
                 </tr>
               </table>
+              <br>
+              <a href="#"><button class="btn btn-custom col-md-12">Schrijf je nu in!</button></a>
+            </div>
             </div>
           </div>
           <div class="blog-post-thumb">
@@ -210,7 +213,7 @@
   </div>
   <div class="container text-center">
 
-    
+
     <div class="text-center">
         <?php
                 $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");

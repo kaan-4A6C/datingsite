@@ -725,3 +725,15 @@ footer strong {
 .txt-color-white{
   color: white !important;
 }
+
+.icon {
+    font-size: 2.5em;
+    color: #fff;
+    padding-left: 13px;
+    padding-right: 13px;
+    transition: all 300ms
+}
+
+.icon:hover {
+    color: #aaa;
+}

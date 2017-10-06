@@ -124,6 +124,8 @@
                     € 13.75 p.m.</td>
                 </tr>
               </table>
+              <br>
+              <a href="#"><button class="btn btn-custom col-md-12">Schrijf je nu in!</button></a>
             </div>
           </div>
           <div class="blog-post-thumb">
@@ -265,18 +267,17 @@
   <!-- Footer Section -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12 text-center">
-          <h3>Neuron Studio</h3>
-          <p>Hier de beste dating vergelijking site</p>
-          <div class="footer-copyright">
-            <p>Copyright &copy; 2017 Impact4ROI </p>
+      <div class="container">
+          <div class="row">
+              <br>
+              <div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
+                  <h3>Volg ons ook op social media!</h3>
+                  <a href="#"><i class="fa fa-instagram icon"></i></a>
+                  <a href="#"><i class="fa fa-twitter icon"></i></a>
+                  <a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
 
     <!-- end Star Ratings -->
   </footer>
