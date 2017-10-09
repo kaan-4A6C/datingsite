@@ -135,70 +135,52 @@
             </div>
 
             <div class="blog-post-des">
-              <p>Deze site is een van bekendste sites ter wereld. Je kunt op deze site van alles doen en enorm veel dates regelen en veel plezier hebben. Er wordt geschat dat zij meer dan 400 gebruikers hebben.</p>
+              <p>De dating site is bedoeld voor mensen als academici en hbo`ers die op zoek zijn naar een partner. Elke dag komen er ruim 100 nieuwe leden bij waardoor er een groot kans is dat je een match kan krijgen. Sinds 1998 is e-Matching al actief bezig voor hoogopgeleiden mensen die een partner zoeken. Het kan namelijk heel moeilijk zijn tegenwoordig om iemand te vinden om dat je zelf hoge eisen stelen om iemand te vinden die bij jouw past.</p>
 
             </div>
             <div class="blog-post-title">
-              <h3>Gebruikersgemak ★ ★ ★ ★</h3>
+              <h3>Gebruikersgemak ★ ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
               <p>
-                  De inrichting van de site is erg mooi en gebruikersvriendelijk. Zelfs ouderen mensen kunnen deze te gekke site gebruiken en ermee overweg dus. De website wordt als duidelijk beschreven.
+                 Als je op de site komt heb je een mooi overzicht van de site. Je kan alles heel makkelijk opzoeken als je iets zoekt. Je ziet meteen waar je kan inschrijven en inloggen. Bij het inschrijven moet je aangeven naar welk geslacht je zoekt en welk geslacht je zelf hebt. Een Nick name die je zelf kan verzinnen plus naam en e-mailadres. Wel moet je akkoord gaan met de voorwaarden en of je gebruik wilt maken van 3 gratis contacten. Je kan ook de app downloadde om via je telefoon altijd bereikbaar te zijn en op de hoogte te blijven van de nieuwste matches.
               </p>
 
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteiten ★ ★ ★ ★</h3>
+              <h3>Functionaliteiten ★ ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De site werkt prima en is zoals als gezegd gebruiksvriendelijk. Er zijn verschillende functies beschikbaar zoals chatten etc.</p>
+              <p>
+                  Je hebt over de dating site wel een veilig gevoel dat je zonder zorgen naar een match kan zoeken. Alles wordt met de hand gecontroleerd of de foto`s en profielen echt zijn. De oude profielen die niet meer gebruikt worden halen ze van de dating site weg. Het zijn ook echt alleen mensen met een hogere opleiding die ouder zijn dan 18. E-Matching zorgt ervoor dat je vooral toegang krijgt naar profielen die heel actief zijn zodat je sneller een match kan hebben. Je krijgt van de site ook dating tips voor als je net nieuw bent in een dating site platvorm en moeilijk mee hebt.
+              </p>
 
             </div>
             <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★</h3>
+              <h3>Klantenservice ★ ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De klantenservice van erotiekadvertenties kun je bereiken via een speciaal nummer of via de speciale pagina. Wat deze site aanraad is dat je jouw klacht per post aangeeft. Wel per post wordt het snelste gereageerd, denk hierbij aan een wachttijd van ongeveer 2 tot 3 maanden.</p>
+              <p>
+                 De klantenservice is heel goed voorziend. Ze zijn 7 dagen in de week beschikbaar om al je vragen te beantwoorden van `s morgens vroeg tot `s avonds laat. Ook reageren ze snel op je mails en telefoontjes. Als je wat liever advies wilt hebben of iets graag wilt delen over daten kan dat ook gerust. E-Matching heeft ervaren opgeleiden mensen die je kan helpen bij dating. Je hebt ook als je een snelle algemene vraag hebt over iets waar je niet uit komt kan je bij veel gestelde vragen klikken en komt er een top 10 gezochte onderwerpen met antwoorden.
+              </p>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★</h3>
+              <h3>Kosten ★ ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>De prijs kwaliteit verhouding is helaas slecht. Je betaalt helaas een aardig bedrag en wat je hiervoor terug krijgt is helaas niet al te best. Vooral als ik kijk naar andere seks of datings sites word ik verdrietig. Zij bieden een spotgoedkope lidmaatschap aan en hebben ten eerste ook een groter bereik en dus meerdere mogelijkheden om die echte stoute dames te ontmoeten of überhaupt mee in contact te komen.</p>
-
+                <p>
+                    Inschrijfgeld bij E-Matching is gratis. Je kan een actief lidmaatschap abonnement nemen. Dat bedraagt per maand €19.95 per maand en doorlopend. Je hebt ook de keus om een pakket van 3 maanden te nemen van €45.95 eenmalig, pakket van 6 maanden is eenmalig €79.95 en het pakket van 9 maanden is eenmalig €99.95. Je kan via een veilig manier ook betalen met IDEAL, creditcard, overschrijving of incasso. Als je wilt dat je lidmaatschap stop wilt zetten kan je dat zelf doen en anders door E-Matching zelf.
+                </p>
             </div>
           </div>
         </div>
       </div>
 
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Erotiekadvertentie</b></h3> Goeiendag iedereen, mijn naam is Rodi Mohammed. Normaal houd ik alleen maar van eigenlijk echte officiële sites. Denk hierbij aan Lexa.nl etc. Ik wou een keer een buitenbeetje proberen en helaas viel dit zwaar tegen! Als je je aanmeld kom je in een super raar portaal terecht met allemaal gay advertenties.
-          <br><br>
-          <b>erotiekadvertenties abonnement</b><br>
-          Bij deze site is het mogelijk om dus verschillende abonnementen te krijgen. Je kan  met de diamond membership chatten met stoute dames,
-          je kunt ook tegen betaling afspreken met deze welgenoemde stoute dames. Wat ik wel jammer vindt is dat de abonnementen erg prijzig zijn.
-          <br><br>
-          <b>Mijn eerste indruk </b><br>De site zag er superleuk en geil uit. Mijn eerste indruk was dus echt top. De zaken hierna vielen helaas erg tegen. Zo denk ik nu aan de accounts maken en het betalen van jouw membership. Ook wat ik erg intimiderend vond was dat je zelfs je opleiding of je huidige baan moest opgeven. Nou eenmaal het account gemaakt, ik even kijken voor stoute dames. Kon er wel een paar vinden maar had de indruk dat veel accounts nep waren. Eenmaal een paar uur later afgesproken met een hele stoute dame. Ik had een leuke kamer gereserveerd en de dame uitgenodigd, bleek het opeens een transgender te zijn! Nou helemaal klaar mee!
-          <br><br>
-          <b>Extra’s</b><br> Een super uniek en speciaal concept wat erotiekadvertenties biedt is dat je ook de dames in het echt kunt ontmoeten. Je kunt deze speciale en sommige dan stoute dames ontmoeten via speciale beurzen die worden gehouden in Amsterdam, Rotterdam en Utrecht.
-          <br><br>
-          <b>Conclusie: </b>
-          <br> De conclusie is als volgt. Ik vind deze site erg onaangenaam omdat je voor het geld wat je betaald niet genoeg voor je waarde krijgt. Ik vind ze oplichters ze vragen enorme bedragen voor hun lidmaatschap. Je hebt vervolgens ook nog eens weinig keus en de site is aardig gebruikersvriendelijk.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
   <div class="container text-center">
 
 

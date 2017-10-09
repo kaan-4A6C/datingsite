@@ -133,55 +133,46 @@
             <div class="blog-post-title">
               <h3>Populariteit ★ ★ ★ ★ ★</h3>
             </div>
-
             <div class="blog-post-des">
                 <p>
-                    Pepper is onlangs verkozen tot beste datingsite van 2017. Het enige minpuntje dan ook is dat er op Pepper enorm veel mensen
-                    zitten van de leeftijdscategorie 25 tot 45 jaar. Daarnaast is Pepper ook nog eens een Nederlandse datingssite.
+                    Mijn eerste indruk op de site is dat het een heel mooi design heeft en met grote letters zie je dat er meer dan 55.775.000 leden er op de site zijn al actief zijn sinds 2002! De bedoeling van de site is dat mensen hier een discrete relaties kunnen zoeken. De dating site geeft aan dat ze een open-minded dating gemeenschap zijn over de hele wereld. Je kan dus mensen benaderen over de hele wereld als je dat zelf ook zou willen.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-                <h3>Gebruikersgemak ★ ★ ★</h3>
+                <h3>Gebruikersgemak ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
               <p>
-                  Pepper heeft een vrij algemene opmaak. Alles is wel duidelijk te vinden op Pepper, behalve de prijzen voor een Membership.
-                  Voor een Membership moest ik wel eventjes zoeken op de website.
+                  Het is heel simpel om in te loggen door op de link log in te klikken. Je kan ook via de google play store of app store de app downloadde en via je telefoon online zijn. Je kan ook van taal van de site aanpassen welk taal jij makkelijker vindt om te spreken en aangeven op welk locatie je zelf bevindt. Als je klikt op uw matches bekijken zie je een aantal opties staan waar je uit kan kiezen. Bijvoorbeeld dat gebonden vrouwen of mannen iemand zoeken, alleenstaande vrouwen of mannen iemand zoeken en mensen van hun zelfde geslacht elkaar opzoeken.
               </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★ ★</h3>
+              <h3>Functionaliteiten ★ ★ ★ ★</h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    De kosten van Pepper zijn wel logisch, alleen heeft het vaak ook zijn nadelen.
-                    Stel je wilt het voor 1 maand proberen betaal je 25 euro gelijk. Dat is wel een beetje overdreven vind ik,
-                    aangezien je bij 1 jaar abonnement €8,50 per maand betaald.
+                    De site geeft wel aan dat discretie voorop staan voor hun. Ze weten dat mensen op de dating gesteld zijn voor hun privacy. De dating site houdt daar ook zeker rekening mee en vragen nooit om via een sociaal netwerkaccount in te loggen. Ze verzorgen ook dat je privéleven ook zeker privé zal blijven. Je hebt controle over je account dat je zelf bepaald wat mensen over jouw kunnen zien en welk informatie je zelf bloot legt. Je kan ook je locatie wijzigen als je op vakantie bent of aan het rijzen bent en iemand graag zou willen ontmoeten.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteit ★ ★ ★</h3>
+              <h3>Klantenservice ★ ★ ★ ★</h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    Bij Pepper is het zo dat de klant bij een gratis versie alleen kan liken en matchen met personen.
-                    De gratis versie is dus eigenlijk zeer beperkt aangezien je niet de mogelijkheid hebt om te praten.
-                    Bij een Membership heb je alle mogelijkheden, zoals chatten, mailen, liken en matchen.
+                    Als je op de link contact klikt kom je op een andere pagina terecht. Je ziet als eerst dat ze mediaverzoeken hebben als kopje en algemene vragen. Bij mediaverzoeken kan je op klik hier klikken en kom je op een ander pagina terecht. Veder zie je bij algemene vragen aantal vragen staan die mensen vaak hebben gesteld. Door op te klikken ga je naar een andere pagina waar ze je een antwoord geven op de vraag. Als je vraag er niet tussen staat kan je door de link onder te klikken naar de pagina van contact. Je ziet daar al hun gegevens staan zoals telefoon nummer, adres, mailadressen en keuze uit welk land je in contact wilt komen.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★ ★ ★</h3>
+              <h3>Kosten ★ ★ ★ ★</h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    De klantenservice van Pepper is enorm goed. De klantenservice is elke dag bereikbaar tot 23:00 uur.
-                    Verder kan je de klantenservice ook nog eens mailen en je hebt de mogelijkheid om contact op te nemen
-                    met behulp van een live chat. Daarnaast worden alle profielen ook nog eens handmatig gecontroleerd.
+                    De kosten kan je vinden door bij veel gestelde vragen te klikken. Je ziet daar een korte uit leg over de kosten bij: hoeveel kost het? Voor de dames die een man zoeken is het geheel gratis. Voor ieder soort die zicht wilt aanmelden voor de site is het gratis lidmaatschap om uit te proberen. Daarna kunnen we nadat ze hebben gecommuniceerd een scala krediet pakketten aan bieden die bij hun past. De site geeft genoeg informatie bij het kopje veel gestelde vragen over de kosten van de pakketten en over de betalingen.
                 </p>
               <br>
             </div>
@@ -189,27 +180,6 @@
         </div>
       </div>
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Nooit meer Pepper voor mij!</b></h3> Mijn naam is Hicham El Badal. Ik ben 20 jaar oud en ik heb vroeger nooit op een datingssite gezeten. Totdat een aantal vrienden van mij op de datingssite Pepper gingen, besloot ik ook maar eens op Pepper te gaan. Ondanks dat de berichten zowel positief als negatief waren, heb ik besloten om het is te proberen. Alleen ging dit gepaard zonder succes, aangezien er veel mensen op Pepper zitten tussen de 25 en 45 jaar.
-          <br><br>
-          <b>Pepper abonnement</b><br> Bij Pepper heb je de mogelijkheid om gratis in te loggen. Met een gratis account heb je alleen de mogelijkheid om je matches te bekijken, te zoeken naar andere Pepper leden en elkaar te liken. Verder heb je nog de mogelijkheid om een Full Membership account aan te maken. Voor een Full Membership zijn de prijzen nogal verschillend. Zo betaal je bij Pepper €25 per maand als je een Membership van 1 maand neemt. Verder heb je nog een Membership van €15 per maand bij een Membership van 3 maanden, een Membership van €9,95 per maand bij een Membership van 6 maanden en heb je als laatste nog een Membership van €8,50 per maand bij een Membership van 1 jaar.
-          <br><br>
-          <b>Mijn eerste indruk </b><br> De website van Pepper ziet er over het algemeen goed uit. Alles staat duidelijk aangegeven, alleen vind ik dat de prijzen van een Membership niet goed aangegeven staan. Vervolgens ging ik een account maken en een Pepper gratis proberen. Daar kwam dan uit dat ik vervolgens veel mensen kreeg die tussen de 25 en 45 jaar oud waren en dat eigenlijk niet bij mijn leeftijdscategorie hoorde. Het nadeel is wel dat chatten met een match niet kan met de gratis versie. Maar over het algemeen is Pepper een prima site waar je singles op kunt zoeken en eventueel mee kan matchen.
-          <br><br>
-          <b>Extra’s</b><br>Pepper heeft over het algemeen niet veel extra dingen. Zo heb je alleen de mogelijkheid om een Pepper Membership te nemen waardoor je de mogelijkheid hebt om een chat te starten met je match. Verder kan je ook nog kans maken om aan een nieuw tv-programma mee te doen wat binnenkort te zien is op Net5. Het programma heet Veel liefs uit Holland. Hier kunnen 10 mensen aan meedoen.
-          <br><br>
-          <b>Conclusie: </b>
-          <br>Pepper is over het algemeen wel een prima datingsite. Alleen geld dit voor de leeftijdscategorie van 25 tot 45 jaar. Aangezien er 80% van die leeftijdscategorie op Pepper zit. Het is wel enorm.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
   <div class="container text-center">
 
 

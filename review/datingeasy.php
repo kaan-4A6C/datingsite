@@ -136,52 +136,44 @@
 
             <div class="blog-post-des">
                 <p>
-                    Pepper is onlangs verkozen tot beste datingsite van 2017. Het enige minpuntje dan ook is dat er op Pepper enorm veel mensen
-                    zitten van de leeftijdscategorie 25 tot 45 jaar. Daarnaast is Pepper ook nog eens een Nederlandse datingssite.
+                    De dating website datingeasy is een populaire plek als je op zoek bent naar een partner. Er melden per dag ongeveer 200 mensen aan bij datingeasy en in een maand ongeveer 5800 mensen in totaal. Er zit op dit moment exact 2.215.290 mensen online bij datingeasy.nl. Daardoor heb jij een grote kans om iemand in jouw omgeving of buurt als match te vinden. En je hebt een ruime keus om naar een match te zoeken.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-                <h3>Gebruikersgemak ★ ★ ★</h3>
+                <h3>Gebruikersgemak ★ ★ ★ ★</h3>
             </div>
 
             <div class="blog-post-des">
               <p>
-                  Pepper heeft een vrij algemene opmaak. Alles is wel duidelijk te vinden op Pepper, behalve de prijzen voor een Membership.
-                  Voor een Membership moest ik wel eventjes zoeken op de website.
+                  Je kan op een hele simpele manier jezelf aanmelden op de dating site. De enige gegevens die ze van je vragen is: profielnaam, je geslacht en naar welk geslacht je op zoek bent plus je mailadres. Je hebt wel zelf de keuze of je akkoord wilt gaan om je zelf in te schrijven voor mails die over speciale aanbiedingen gaan. Op de start pagina kan je als je al een account hebt aanmelden en kiezen of je aangemeld wil blijven op de site of je steeds opnieuw wil aanmelden bij je bezoek op de datingsite. Alle accounts worden met de hand zelf gecontroleerd voor ieder zijn veiligheid.
               </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Kosten ★ ★ ★</h3>
+              <h3>Functionaliteiten ★ ★ ★ ★</h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    De kosten van Pepper zijn wel logisch, alleen heeft het vaak ook zijn nadelen.
-                    Stel je wilt het voor 1 maand proberen betaal je 25 euro gelijk. Dat is wel een beetje overdreven vind ik,
-                    aangezien je bij 1 jaar abonnement €8,50 per maand betaald.
+                    Bij een dating site zou je graag willen dat alles veilig en goed gecheckt is. Bij datingeasy kan je met een gerust hard op zoek naar een match. Alles wordt goed voor je na gecheckt en bijgehouden. Je hebt wel de beschikking om anoniem een postcode door te geven als je niet wilt dat iemand kan zien waar je woont. Later kan je dit wel op eigen voorkeur aanpassen wanneer je dat wilt. Er wordt van tevoren wel aangetoond hoe je je zelf kan beschermen voor mensen die je wilt gaan oplichten.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Functionaliteit ★ ★ ★</h3>
+              <h3>Klantenservice ★ ★ ★ ★ </h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    Bij Pepper is het zo dat de klant bij een gratis versie alleen kan liken en matchen met personen.
-                    De gratis versie is dus eigenlijk zeer beperkt aangezien je niet de mogelijkheid hebt om te praten.
-                    Bij een Membership heb je alle mogelijkheden, zoals chatten, mailen, liken en matchen.
+                    Bij een dating site zou je graag willen dat alles veilig en goed gecheckt is. Bij datingeasy kan je met een gerust hard op zoek naar een match. Alles wordt goed voor je na gecheckt en bijgehouden. Je hebt wel de beschikking om anoniem een postcode door te geven als je niet wilt dat iemand kan zien waar je woont. Later kan je dit wel op eigen voorkeur aanpassen wanneer je dat wilt. Er wordt van tevoren wel aangetoond hoe je je zelf kan beschermen voor mensen die je wilt gaan oplichten.
                 </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Klantenservice ★ ★ ★ ★ ★</h3>
+              <h3>Kosten ★ ★ ★ ★</h3>
             </div>
             <div class="blog-post-des">
                 <p>
-                    De klantenservice van Pepper is enorm goed. De klantenservice is elke dag bereikbaar tot 23:00 uur.
-                    Verder kan je de klantenservice ook nog eens mailen en je hebt de mogelijkheid om contact op te nemen
-                    met behulp van een live chat. Daarnaast worden alle profielen ook nog eens handmatig gecontroleerd.
+                    Als je de keus maakt om deel te nemen aan een dating site, dan kunnen we je garanderen dat je veilig kan betalen. We gebruiken de betaling methodes van Creditcard, IDEAL, BanContact/MrCash, Domiciliering en overboeking. Per maand betaalt u €24.99 voor de site. Op de site kan je over de betaling nog gerust informatie lezen. De prijzen bevatten al inclusief de belasting toegevoegde waarde. Je kan bij het kopje meest gestelde vragen- abonnementen zien dat je dus een abonnement bundel kan aanschaven als je dat fijner vindt. Al de informatie hierover is keurig uitgelegd en beschreven.
                 </p>
               <br>
             </div>
@@ -189,27 +181,7 @@
         </div>
       </div>
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Nooit meer Pepper voor mij!</b></h3> Mijn naam is Hicham El Badal. Ik ben 20 jaar oud en ik heb vroeger nooit op een datingssite gezeten. Totdat een aantal vrienden van mij op de datingssite Pepper gingen, besloot ik ook maar eens op Pepper te gaan. Ondanks dat de berichten zowel positief als negatief waren, heb ik besloten om het is te proberen. Alleen ging dit gepaard zonder succes, aangezien er veel mensen op Pepper zitten tussen de 25 en 45 jaar.
-          <br><br>
-          <b>Pepper abonnement</b><br> Bij Pepper heb je de mogelijkheid om gratis in te loggen. Met een gratis account heb je alleen de mogelijkheid om je matches te bekijken, te zoeken naar andere Pepper leden en elkaar te liken. Verder heb je nog de mogelijkheid om een Full Membership account aan te maken. Voor een Full Membership zijn de prijzen nogal verschillend. Zo betaal je bij Pepper €25 per maand als je een Membership van 1 maand neemt. Verder heb je nog een Membership van €15 per maand bij een Membership van 3 maanden, een Membership van €9,95 per maand bij een Membership van 6 maanden en heb je als laatste nog een Membership van €8,50 per maand bij een Membership van 1 jaar.
-          <br><br>
-          <b>Mijn eerste indruk </b><br> De website van Pepper ziet er over het algemeen goed uit. Alles staat duidelijk aangegeven, alleen vind ik dat de prijzen van een Membership niet goed aangegeven staan. Vervolgens ging ik een account maken en een Pepper gratis proberen. Daar kwam dan uit dat ik vervolgens veel mensen kreeg die tussen de 25 en 45 jaar oud waren en dat eigenlijk niet bij mijn leeftijdscategorie hoorde. Het nadeel is wel dat chatten met een match niet kan met de gratis versie. Maar over het algemeen is Pepper een prima site waar je singles op kunt zoeken en eventueel mee kan matchen.
-          <br><br>
-          <b>Extra’s</b><br>Pepper heeft over het algemeen niet veel extra dingen. Zo heb je alleen de mogelijkheid om een Pepper Membership te nemen waardoor je de mogelijkheid hebt om een chat te starten met je match. Verder kan je ook nog kans maken om aan een nieuw tv-programma mee te doen wat binnenkort te zien is op Net5. Het programma heet Veel liefs uit Holland. Hier kunnen 10 mensen aan meedoen.
-          <br><br>
-          <b>Conclusie: </b>
-          <br>Pepper is over het algemeen wel een prima datingsite. Alleen geld dit voor de leeftijdscategorie van 25 tot 45 jaar. Aangezien er 80% van die leeftijdscategorie op Pepper zit. Het is wel enorm.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
+
   <div class="container text-center">
 
 

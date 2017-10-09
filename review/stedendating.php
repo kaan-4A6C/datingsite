@@ -130,22 +130,23 @@
           </div>
           <div class="blog-post-thumb">
             <div class="blog-post-title">
-              <h3>Populariteit ★ ★ ★ ★ ★</h3>
+              <h3>Populariteit ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-              <p>Lexa is waarschijnlijk de meest bekende datingssite die er is. In Nederland behoort In Nederland behoort lexa tot de top 5 populairste datingsites. Wij schatten het aantal leden  rond de 80.000. Lexa is actief in de media, daardoor stijgt de populariteit nog steeds. Wij hebben geen informatie kunnen vinden met betrekking tot de verhouding man en vrouw. Let wel op dat deze datingsite ook actief is in het buitenland dus niet alle leden zijn Nederlands. Overigens kan je dat ook als positief zien als je zelf ook een beetje avontuurlijk bent ingesteld!</p>
+                <p>
+                    Ik denk dat stedendating erg populair is onder de jongeren. Ik heb de site namelijk van vrienden en zij hebben het weer van andere vrienden. Daarom denk ik dat de site nogal goed gaat onder de jongvolwassenen. Ook heb ik de site weleens een paar keer zien verschijnen op Social media, zoals bijvoorbeeld Facebook.
+                </p>
               <br>
             </div>
             <div class="blog-post-title">
-              <h3>Gebruikersgemak ★ ★ ★ ★</h3>
+              <h3>Gebruikersgemak ★ ★ ★ ★ </h3>
             </div>
 
             <div class="blog-post-des">
-            <p>
-                De layout – Lexa heeft een herkenbare eigen stijl. Afbeeldingen en teksten zijn groot en duidelijk. Het design sluit goed aan bij de hedendaagse moderne vormgeving en is daarom zeer prettig.
-                Duidelijkheid – De website is duidelijk. Navigeren door deze datingsite is eenvoudig. Het is een overzichtelijke site.
-            </p>
+                <p>
+                    De aanmelding op de datingsite was erg simpel, er waren geen moeilijke of te persoonlijke vragen wat ik natuurlijk erg fijn vind en ik denk anderen ook wel. Ik heb wel gezien dat er persoonlijke vragen waren maar die hoefde ik niet per se te beantwoorden. Sommige dingen begreep ik niet op de site maar daar is gelukkig de klantenservice voor.
+                </p>
               <br>
             </div>
             <div class="blog-post-title">
@@ -153,9 +154,8 @@
             </div>
 
             <div class="blog-post-des">
-              <p>De hoeveelheid functionaliteiten zijn goed. Leden van Lexa kunnen gebruik maken van de volgende functionaliteiten:</p>
-              <p>Persoonlijkheidstest, Chatten, Flirten met andere leden, Berichten sturen, glimlach, Foto’s, Profielpagina, Profielen bekijken, Uitgebreid zoeken, ijsbreker en een Helpdesk</p>
-              <p>Met Functionaliteiten zoals de ijsbreker en een glimlach kun je eenvoudig een eerste stap zetten naar een nieuw contact.</p>
+              <p>Op de site kan je profielen bekijken en die dan liken wanneer je geinteresseerd bent in die persoon. Mensen kunnen je ook verzoeken sturen om met jou een chat te starten en deze kun je dan accepteren of negeren. Ook maakt de datingsite gebruik van de fotozapper. Dit is nogal een bekende onder de jongeren, je liked namelijk een foto en dan word jou foto voorgesteld bij de ander waardoor diegene de foto kan terugliken of door kan klikken. Als jullie allebei elkaars foto hebben geliked dan word je gematch en kan je zo een gesprek starten. </p>
+
               <br>
             </div>
 
@@ -164,8 +164,7 @@
             </div>
 
             <div class="blog-post-des">
-              <p>De klantenservice van Lexa kun je bereiken door gebruik te maken van het contactformulier, via  briefpost of door hun direct te mailen. Het Nederlandse emailadres is support@Lexa.nl . Ervaring leert dat Lexa redelijk snel is met het afhandelen van vragen en klachten afhankelijk van het gebruikte medium. (Schriftelijke correspondentie duurt langer).</p>
-              <p>Lexa adres: Postbus: 10813, 1001 EV Amsterdam, Nederland</p>
+              <p>Stedendating maakt gebruik van een helpcenter en daar staan de veelgestelde vragen en een reactieformulier in. Ik vind de veelgestelde vragen persoonlijk erg handig, omdat de problemen die voorkomen op de site nogal algemeen zijn. Je hoeft dus niet meteen een mailtje te versturen etc. </p>
 
               <br>
             </div>
@@ -174,7 +173,7 @@
             </div>
 
             <div class="blog-post-des">
-              <p>De prijs kwaliteit verhouding is redelijk goed. Lexa is zeker niet de goedkoopste datingsite, maar doordat Lexa een van de grootste en populairste datingsite is heeft het een groot aantal leden en dus een prima kans tot een succesvolle date. Aanmelden is gratis en geeft je een goed beeld van hoe de datingsite werkt. Aanmelden verplicht je tot niks.</p>
+              <p>Ik heb gezien dat je een abonnement op de site moet nemen nadat je een tijdje lid bent geweest. Voor de abonnement  betaal je per dag een prijs voor een verschillende toegangsvorm en dit word dan laten zien in de vorm van credits. </p>
               <br>
             </div>
           </div>
@@ -182,31 +181,7 @@
       </div>
 
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Nooit meer Lexa voor mij!</b></h3> Mijn naam is Jan en ik had nog nooit een datingsite gebruikt en ik hoorden veel verhalen over datingssite dus ik besloot het eens serieus te gaan proberen, na een beetje onderzoek te hebben gedaan voor de “beste datingssite” kwam ik uit de
-          Lexa.nl hier waren veel positieve berichten over maar ook veel negatieve. Ik besloot het maar gewoon een kans te geven.
-          <br><br>
-          <b>Lexa abonnement</b><br> Met Lexa is het mogelijk verschillende abonnenten nemen, je kan bijvoorbeeld met een Lexa Full Membership onbeperkt flirten en chatten, berichten versturen en alle foto's en profielen bekijken. helaas is zo’n abonnement
-          redelijk prijzig (voor de gene die er geen geld aan uit wil besteden heb je ‘gelukkig’ ook een gratis versie). 1 maand Lexa-premium kost € 24,95, dit is afhankelijk van je abonnementsvorm.
-          <br><br>
-          <b>Mijn eerste indruk </b><br> De site zag er veelbelovend uit en wekte veel aandacht bij mij op, het maken van een account duurde redelijk lang want ze vragen je echt van alles zoals: je geslacht, haarkleur, lengte, je hobby’s, je werk, je
-          inkomen, je opleiding, de talen die je kent en nog veel meer. Dat deel gaat dan alleen over je zelf, je moet ook nog een hele lijst invullen voor wat voor (in mij geval) vrouw je zoekt.
-          <br><br>
-          <b>Extra’s</b><br> Gelukkig biedt Lexa hun leden ook de mogelijkheid om elkaar in het echt te ontmoeten via de zogenaamde Lexa Events. Deze events komen (bijna) altijd voor in de grote steden van Nederland (Amsterdam, Rotterdam, Utrecht ect.).
-          Hier worden verschillende dingen gedaan zoals een musea bezoek, gezamenlijk sporten, een kookworkshop en gewoon een gezellige borrel. Hier kwam je af en toe wel mooie vrouwen tegen maar 9 van de 10 keer is hun karakter totaal niet wat ik zoek.
-          <br><br>
-          <b>Conclusie: </b>
-          <br> Ik vind Lexa heel erg enorm teleurstellend als een datingsite, er is veel te weinig keus voor het geld wat je betaald, bovendien is het enige ‘doel’ van lexa om zoveel mogelijk van je af te persen! Het zijn echte oplichter.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
+
   <div class="container text-center">
 
 
