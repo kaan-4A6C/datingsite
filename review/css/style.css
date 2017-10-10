@@ -710,12 +710,13 @@ form textarea {
     font-size: 1.25em;
     font-family: FontAwesome;
     display: inline-block;
-    content: "\002764"
+    content: "\002764";
 }
 
 .rating>.half:before {
     content: "\002764";
-    position: absolute
+    position: absolute;
+
 }
 
 .rating>label {
@@ -724,11 +725,14 @@ form textarea {
 }
 
 .rating>input:checked~label, .rating:not(:checked)>label:hover, .rating:not(:checked)>label:hover~label {
-    color: #FF0000
+    color: #FF0000;
+    text-shadow: -1px 0 #777, 0 1px #777, 1px 0 #777, 0 -1px #777;
 }
 
 .rating>input:checked+label:hover, .rating>input:checked~label:hover, .rating>label:hover~input:checked~label, .rating>input:checked~label:hover~label {
-    color: #FF0000
+    color: #FF0000;
+
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .rating {
@@ -754,4 +758,8 @@ form textarea {
     color: #E8611E;
     background: #fff !important;
     border: 1px solid #E8611E;
+}
+
+#hart{
+  color: #FF0000 !important;
 }

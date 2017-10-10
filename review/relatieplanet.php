@@ -221,7 +221,7 @@
 40";
 
             if($result = $db->query($query)) {
-                echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' Sterren';
+                echo 'Gemiddeld:  ' . number_format($result->fetch_array()["avg"], 2) . ' <span id="hart"> &#10084; </span>';
             }
         ?>
     </div>
