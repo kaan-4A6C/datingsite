@@ -710,11 +710,11 @@ form textarea {
     font-size: 1.25em;
     font-family: FontAwesome;
     display: inline-block;
-    content: "\f005"
+    content: "\002764"
 }
 
 .rating>.half:before {
-    content: "\f089";
+    content: "\002764";
     position: absolute
 }
 
@@ -724,11 +724,11 @@ form textarea {
 }
 
 .rating>input:checked~label, .rating:not(:checked)>label:hover, .rating:not(:checked)>label:hover~label {
-    color: #ffd700
+    color: #FF0000
 }
 
 .rating>input:checked+label:hover, .rating>input:checked~label:hover, .rating>label:hover~input:checked~label, .rating>input:checked~label:hover~label {
-    color: #ffed85
+    color: #FF0000
 }
 
 .rating {
