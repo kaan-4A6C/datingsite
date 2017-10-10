@@ -202,7 +202,7 @@
   <div class="container text-center">
 
 
-    <div class="text-center">
+    <div class="text-center tekst-size">
         <?php
             $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");
 
@@ -229,6 +229,8 @@
                     </fieldset>
 
                  </div>';
+
+                 
 
                  if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
                      $ip = $_SERVER['HTTP_CLIENT_IP'];

@@ -213,7 +213,7 @@
   <div class="container text-center">
 
     <h2 class="text-center">Plaats een reactie</h2>
-    <div class="text-center">
+    <div class="text-center tekst-size">
         <?php
                 $db = new mysqli("localhost", "flirtengidsjes", "Jx&76nxhyEq3vqZl", "dbbb_flirtjessgidss");
 
