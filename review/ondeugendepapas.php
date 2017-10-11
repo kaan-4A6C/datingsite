@@ -9,7 +9,7 @@
   <meta name="author" content="Abuzar Akbari">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="css/table.css">
-  <link rel="stylesheet" href="background/ontdeugendpapas/ontdeugendpapas.css">
+  <link rel="stylesheet" href="background/ondeugendepapas/ondeugendepapas.css">
   <title>Ondeugende-Papas</title>
   <!--
 
@@ -189,27 +189,6 @@
         </div>
       </div>
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Nooit meer Pepper voor mij!</b></h3> Mijn naam is Hicham El Badal. Ik ben 20 jaar oud en ik heb vroeger nooit op een datingssite gezeten. Totdat een aantal vrienden van mij op de datingssite Pepper gingen, besloot ik ook maar eens op Pepper te gaan. Ondanks dat de berichten zowel positief als negatief waren, heb ik besloten om het is te proberen. Alleen ging dit gepaard zonder succes, aangezien er veel mensen op Pepper zitten tussen de 25 en 45 jaar.
-          <br><br>
-          <b>Pepper abonnement</b><br> Bij Pepper heb je de mogelijkheid om gratis in te loggen. Met een gratis account heb je alleen de mogelijkheid om je matches te bekijken, te zoeken naar andere Pepper leden en elkaar te liken. Verder heb je nog de mogelijkheid om een Full Membership account aan te maken. Voor een Full Membership zijn de prijzen nogal verschillend. Zo betaal je bij Pepper €25 per maand als je een Membership van 1 maand neemt. Verder heb je nog een Membership van €15 per maand bij een Membership van 3 maanden, een Membership van €9,95 per maand bij een Membership van 6 maanden en heb je als laatste nog een Membership van €8,50 per maand bij een Membership van 1 jaar.
-          <br><br>
-          <b>Mijn eerste indruk </b><br> De website van Pepper ziet er over het algemeen goed uit. Alles staat duidelijk aangegeven, alleen vind ik dat de prijzen van een Membership niet goed aangegeven staan. Vervolgens ging ik een account maken en een Pepper gratis proberen. Daar kwam dan uit dat ik vervolgens veel mensen kreeg die tussen de 25 en 45 jaar oud waren en dat eigenlijk niet bij mijn leeftijdscategorie hoorde. Het nadeel is wel dat chatten met een match niet kan met de gratis versie. Maar over het algemeen is Pepper een prima site waar je singles op kunt zoeken en eventueel mee kan matchen.
-          <br><br>
-          <b>Extra’s</b><br>Pepper heeft over het algemeen niet veel extra dingen. Zo heb je alleen de mogelijkheid om een Pepper Membership te nemen waardoor je de mogelijkheid hebt om een chat te starten met je match. Verder kan je ook nog kans maken om aan een nieuw tv-programma mee te doen wat binnenkort te zien is op Net5. Het programma heet Veel liefs uit Holland. Hier kunnen 10 mensen aan meedoen.
-          <br><br>
-          <b>Conclusie: </b>
-          <br>Pepper is over het algemeen wel een prima datingsite. Alleen geld dit voor de leeftijdscategorie van 25 tot 45 jaar. Aangezien er 80% van die leeftijdscategorie op Pepper zit. Het is wel enorm.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
   <div class="container text-center">
 
 
@@ -270,18 +249,17 @@
   <!-- Footer Section -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12 text-center">
-          <h3>Neuron Studio</h3>
-          <p>Hier de beste dating vergelijking site</p>
-          <div class="footer-copyright">
-            <p>Copyright &copy; 2017 Impact4ROI </p>
+      <div class="container">
+          <div class="row">
+              <br>
+              <div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
+                  <h3>Volg ons ook op social media!</h3>
+                  <a href="https://www.instagram.com/flirtgids_nl/"><i class="fa fa-instagram icon"></i></a>
+                  <a href="https://twitter.com/Flirtgids_NL?lang=nl"><i class="fa fa-twitter icon"></i></a>
+                  <a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
 
     <!-- end Star Ratings -->
   </footer>

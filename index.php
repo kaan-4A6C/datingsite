@@ -254,8 +254,7 @@
 							<li><a href="#" data-filter="*" class="selected opc-main-bg">Alles</a></li>
 							<li><a href="#" class="opc-main-bg" data-filter=".Hetro">Hetro</a></li>
 							<li><a href="#" class="opc-main-bg" data-filter=".Gay">Homo</a></li>
-							<li><a href="#" class="opc-main-bg" data-filter=".Secret">Secret</a></li>
-							<li><a href="#" class="opc-main-bg" data-filter=".Eroties">Erotisch</a></li>
+							<li><a href="#" class="opc-main-bg" data-filter=".Erotisch">Erotisch</a></li>
 						</ul>
 
 						<!-- iso box section -->
@@ -263,7 +262,7 @@
 							<div class="iso-box-wrapper col4-iso-box">
 
 								<a href="review/victoriamilan" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/victoriamilan/victoria-milan-logo.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -276,7 +275,7 @@
 									</div>
 								</a>
 								<a href="review/ematching" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/e-matching/ematching-logo.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -289,7 +288,7 @@
 									</div>
 								</a>
 								<a href="review/alleenstaandemamas" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/alleenstaandemamas/alleenstaandemamas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -302,7 +301,7 @@
 									</div>
 								</a>
 								<a href="review/alleenstaandepapas" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/alleenstaandepapas/alleenstaandepapas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -315,7 +314,7 @@
 									</div>
 								</a>
 								<a href="review/ashleymadison" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/ashleymadison/ashleymadison.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -328,7 +327,7 @@
 									</div>
 								</a>
 								<a href="review/datingeasy" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/datingeasy/datingeasy.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -341,7 +340,7 @@
 									</div>
 								</a>
 								<a href="review/findmysex" >
-									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch  lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/findmysex/findmysex.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -354,7 +353,7 @@
 									</div>
 								</a>
 								<a href="review/girlsdating" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/girls-dating/girlsdating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -367,7 +366,7 @@
 									</div>
 								</a>
 								<a href="review/guysdating" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/guys-dating/guysdating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -380,7 +379,7 @@
 									</div>
 								</a>
 								<a href="review/hetgrandcafe" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/hetgrandcafe/hetgrandcafe.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -393,7 +392,7 @@
 									</div>
 								</a>
 								<a href="review/inviteme" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/inviteme/inviteme.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -406,7 +405,7 @@
 									</div>
 								</a>
 								<a href="review/kleinemensendating" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/kleinemensendating/kleinemensendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -419,7 +418,7 @@
 									</div>
 								</a>
 								<a href="review/langemensendating" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/langemensendating/langemensendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -432,7 +431,7 @@
 									</div>
 								</a>
 								<a href="review/love" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/love/love.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -445,7 +444,7 @@
 									</div>
 								</a>
 								<a href="review/maatjemeermatch" >
-									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box  Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/maatjemeermatch/maatjemeer-match.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -458,7 +457,7 @@
 									</div>
 								</a>
 								<a href="review/metjou" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/metjou/metjou.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -471,7 +470,7 @@
 									</div>
 								</a>
 								<a href="review/milfmatch" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/milf-match/milf-match.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -484,7 +483,7 @@
 									</div>
 								</a>
 								<a href="review/nextlove" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/nextlove/nextlove-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -497,7 +496,7 @@
 									</div>
 								</a>
 								<a href="review/ondeugenddaten" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro Erotisch  lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/ondeugenddaten/ondeugenddaten.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -510,7 +509,7 @@
 									</div>
 								</a>
 								<a href="review/ondeugendemamas" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro Erotisch lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/ondeugendemamas/ondeugendemamas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -523,7 +522,7 @@
 									</div>
 								</a>
 								<a href="review/lexa" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/lexa/lexa.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -537,7 +536,7 @@
 								</a>
 
 								<a href="review/ondeugendepapas" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/ondeugendepapas/ondeugendepapas.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -550,7 +549,7 @@
 									</div>
 								</a>
 								<a href="review/piratendating" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/piratendating/piratendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -563,7 +562,7 @@
 									</div>
 								</a>
 								<a href="review/regiosexcontact" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/regiosexcontact/regiosexcontact.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -576,7 +575,7 @@
 									</div>
 								</a>
 								<a href="review/regioswingers" >
-									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/regioswingers/regioswingers.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -589,7 +588,7 @@
 									</div>
 								</a>
 								<a href="review/richmeetbeautiful" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/richmeetbeautiful/richmeetbeautiful.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -602,7 +601,7 @@
 									</div>
 								</a>
 								<a href="review/runnersdate" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/runnersdate/runnersdate.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -615,7 +614,7 @@
 									</div>
 								</a>
 								<a href="review/safedatingnetworks" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/safedatingnetworks/safedatingnetwork.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -628,7 +627,7 @@
 									</div>
 								</a>
 								<a href="review/seniorengeluk" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/seniorengeluk/seniorengeluk.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -641,7 +640,7 @@
 									</div>
 								</a>
 								<a href="review/seniorenpassie" >
-									<div class="iso-box Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Gay Hetro Erotisch  lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/seniorenpassie/seniorenpassie.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -655,7 +654,7 @@
 								</a>
 
 								<a href="review/sexpartner" >
-									<div class="iso-box Hetro Gay lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erptisch  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/sexpartner/sexpartner.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -668,7 +667,7 @@
 									</div>
 								</a>
 								<a href="review/sexydatingnetworks" >
-									<div class="iso-box Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch  lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/sexydatingnetworks/sexydatingnetworks.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -681,7 +680,7 @@
 									</div>
 								</a>
 								<a href="review/smartsingles" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/smartsingles/smartsingles-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -694,7 +693,7 @@
 									</div>
 								</a>
 								<a href="review/stedendating" >
-									<div class="iso-box  Hetro Gay pizza lunch col-md-4 col-sm-6">
+									<div class="iso-box  Hetro Gay  lunch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/stedendating/stedendating.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -707,7 +706,7 @@
 									</div>
 								</a>
 								<a href="review\suikerarragement" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/suikerarrangement/suikerarrangament.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -720,7 +719,7 @@
 									</div>
 								</a>
 								<a href="review/xclub" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Erotisch  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/xclub/xclub-logo.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -733,7 +732,7 @@
 									</div>
 								</a>
 								<a href="review/secondlove" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch Erotisch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/secondlove/secondlove.jpg" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -746,7 +745,7 @@
 									</div>
 								</a>
 								<a href="review/novamora" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/novamora/novamora-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -759,7 +758,7 @@
 									</div>
 								</a>
 								<a href="review/vijftigplusdating" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro  col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/vijftigplusdating/vijftigplusdating-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -772,7 +771,7 @@
 									</div>
 								</a>
 								<a href="review/relatieplanet" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/relatieplanet/relatieplanet-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -785,7 +784,7 @@
 									</div>
 								</a>
 								<a href="review/40plusrelatie" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/40plusrelatie/40plusrelatie-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -798,7 +797,7 @@
 									</div>
 								</a>
 								<a href="review/adultmatch" >
-									<div class="iso-box Hetro lunch dinner col-md-4 col-sm-6">
+									<div class="iso-box Hetro Gay Erotisch col-md-4 col-sm-6">
 										<div class="gallery-thumb">
 											<img src="images/adultmatch/Adultmatch-filter.png" class="fluid-img" alt="Gallery">
 											<div class="gallery-overlay">
@@ -862,8 +861,8 @@
 				<br>
 				<div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
 					<h3>Volg ons ook op social media!</h3>
-					<a href="#"><i class="fa fa-instagram icon"></i></a>
-					<a href="#"><i class="fa fa-twitter icon"></i></a>
+					<a href="https://www.instagram.com/flirtgids_nl/"><i class="fa fa-instagram icon"></i></a>
+					<a href="https://twitter.com/Flirtgids_NL?lang=nl"><i class="fa fa-twitter icon"></i></a>
 					<a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
 				</div>
 			</div>
@@ -874,7 +873,6 @@
 	<section id="copyright">
 		<div class="container">
 			<div class="row">
-
 				<div class="col-md-8 col-sm-8 col-xs-8">
 					<p>Copyright © <a href="HIER MOET NOG EEN LINK!">Succesmedia</a> | Designed by Kaan & Abuzar
 						<!-- <a class="designed-by" href="https://plus.google.com/+Tooplate/" >Tooplate</a></p> -->
@@ -882,7 +880,6 @@
 				<div class="col-md-4 col-sm-4 text-right">
 					<a href="#" class="fa fa-angle-up smoothScroll gototop"></a>
 				</div>
-
 			</div>
 		</div>
 	</section>
