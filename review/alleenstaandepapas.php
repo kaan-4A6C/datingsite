@@ -176,29 +176,7 @@
       </div>
 
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Erotiekadvertentie</b></h3> Goeiendag iedereen, mijn naam is Rodi Mohammed. Normaal houd ik alleen maar van eigenlijk echte officiële sites. Denk hierbij aan Lexa.nl etc. Ik wou een keer een buitenbeetje proberen en helaas viel dit zwaar tegen! Als je je aanmeld kom je in een super raar portaal terecht met allemaal gay advertenties.
-          <br><br>
-          <b>erotiekadvertenties abonnement</b><br>
-          Bij deze site is het mogelijk om dus verschillende abonnementen te krijgen. Je kan  met de diamond membership chatten met stoute dames,
-          je kunt ook tegen betaling afspreken met deze welgenoemde stoute dames. Wat ik wel jammer vindt is dat de abonnementen erg prijzig zijn.
-          <br><br>
-          <b>Mijn eerste indruk </b><br>De site zag er superleuk en geil uit. Mijn eerste indruk was dus echt top. De zaken hierna vielen helaas erg tegen. Zo denk ik nu aan de accounts maken en het betalen van jouw membership. Ook wat ik erg intimiderend vond was dat je zelfs je opleiding of je huidige baan moest opgeven. Nou eenmaal het account gemaakt, ik even kijken voor stoute dames. Kon er wel een paar vinden maar had de indruk dat veel accounts nep waren. Eenmaal een paar uur later afgesproken met een hele stoute dame. Ik had een leuke kamer gereserveerd en de dame uitgenodigd, bleek het opeens een transgender te zijn! Nou helemaal klaar mee!
-          <br><br>
-          <b>Extra’s</b><br> Een super uniek en speciaal concept wat erotiekadvertenties biedt is dat je ook de dames in het echt kunt ontmoeten. Je kunt deze speciale en sommige dan stoute dames ontmoeten via speciale beurzen die worden gehouden in Amsterdam, Rotterdam en Utrecht.
-          <br><br>
-          <b>Conclusie: </b>
-          <br> De conclusie is als volgt. Ik vind deze site erg onaangenaam omdat je voor het geld wat je betaald niet genoeg voor je waarde krijgt. Ik vind ze oplichters ze vragen enorme bedragen voor hun lidmaatschap. Je hebt vervolgens ook nog eens weinig keus en de site is aardig gebruikersvriendelijk.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
+ 
   <div class="container text-center">
 
 
@@ -261,18 +239,17 @@
   <!-- Footer Section -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12 text-center">
-          <h3>Neuron Studio</h3>
-          <p>Hier de beste dating vergelijking site</p>
-          <div class="footer-copyright">
-            <p>Copyright &copy; 2017 Impact4ROI </p>
+      <div class="container">
+          <div class="row">
+              <br>
+              <div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
+                  <h3>Volg ons ook op social media!</h3>
+                  <a href="https://www.instagram.com/flirtgids_nl/"><i class="fa fa-instagram icon"></i></a>
+                  <a href="https://twitter.com/Flirtgids_NL?lang=nl"><i class="fa fa-twitter icon"></i></a>
+                  <a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
 
     <!-- end Star Ratings -->
   </footer>

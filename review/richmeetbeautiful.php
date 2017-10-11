@@ -182,31 +182,6 @@
       </div>
 
   </section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-1 col-md-10 col-sm-12">
-        <h2>Wat andere ervan vonden!</h2>
-        <hr>
-        <p>
-          <h3><b>Nooit meer Lexa voor mij!</b></h3> Mijn naam is Jan en ik had nog nooit een datingsite gebruikt en ik hoorden veel verhalen over datingssite dus ik besloot het eens serieus te gaan proberen, na een beetje onderzoek te hebben gedaan voor de “beste datingssite” kwam ik uit de
-          Lexa.nl hier waren veel positieve berichten over maar ook veel negatieve. Ik besloot het maar gewoon een kans te geven.
-          <br><br>
-          <b>Lexa abonnement</b><br> Met Lexa is het mogelijk verschillende abonnenten nemen, je kan bijvoorbeeld met een Lexa Full Membership onbeperkt flirten en chatten, berichten versturen en alle foto's en profielen bekijken. helaas is zo’n abonnement
-          redelijk prijzig (voor de gene die er geen geld aan uit wil besteden heb je ‘gelukkig’ ook een gratis versie). 1 maand Lexa-premium kost € 24,95, dit is afhankelijk van je abonnementsvorm.
-          <br><br>
-          <b>Mijn eerste indruk </b><br> De site zag er veelbelovend uit en wekte veel aandacht bij mij op, het maken van een account duurde redelijk lang want ze vragen je echt van alles zoals: je geslacht, haarkleur, lengte, je hobby’s, je werk, je
-          inkomen, je opleiding, de talen die je kent en nog veel meer. Dat deel gaat dan alleen over je zelf, je moet ook nog een hele lijst invullen voor wat voor (in mij geval) vrouw je zoekt.
-          <br><br>
-          <b>Extra’s</b><br> Gelukkig biedt Lexa hun leden ook de mogelijkheid om elkaar in het echt te ontmoeten via de zogenaamde Lexa Events. Deze events komen (bijna) altijd voor in de grote steden van Nederland (Amsterdam, Rotterdam, Utrecht ect.).
-          Hier worden verschillende dingen gedaan zoals een musea bezoek, gezamenlijk sporten, een kookworkshop en gewoon een gezellige borrel. Hier kwam je af en toe wel mooie vrouwen tegen maar 9 van de 10 keer is hun karakter totaal niet wat ik zoek.
-          <br><br>
-          <b>Conclusie: </b>
-          <br> Ik vind Lexa heel erg enorm teleurstellend als een datingsite, er is veel te weinig keus voor het geld wat je betaald, bovendien is het enige ‘doel’ van lexa om zoveel mogelijk van je af te persen! Het zijn echte oplichter.
-        </p>
-      </div>
-    </div>
-    <br>
-  </div>
   <div class="container text-center">
 
 
@@ -267,18 +242,17 @@
   <!-- Footer Section -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12 text-center">
-          <h3>Neuron Studio</h3>
-          <p>Hier de beste dating vergelijking site</p>
-          <div class="footer-copyright">
-            <p>Copyright &copy; 2017 Impact4ROI </p>
+      <div class="container">
+          <div class="row">
+              <br>
+              <div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
+                  <h3>Volg ons ook op social media!</h3>
+                  <a href="https://www.instagram.com/flirtgids_nl/"><i class="fa fa-instagram icon"></i></a>
+                  <a href="https://twitter.com/Flirtgids_NL?lang=nl"><i class="fa fa-twitter icon"></i></a>
+                  <a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
 
     <!-- end Star Ratings -->
   </footer>

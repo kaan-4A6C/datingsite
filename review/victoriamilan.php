@@ -131,7 +131,7 @@
           </div>
           <div class="blog-post-thumb">
             <div class="blog-post-title">
-              <h3><a href="single-post.html">Populariteit ★ ★ ★ ★ ★</a></h3>
+              <h3>Populariteit ★ ★ ★ ★ ★</a></h3>
             </div>
 
             <div class="blog-post-des">
@@ -141,7 +141,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-                <h3><a href="single-post.html">Gebruikersgemak ★ ★ ★ ★ ★</a></h3>
+                <h3>Gebruikersgemak ★ ★ ★ ★ ★</a></h3>
             </div>
 
             <div class="blog-post-des">
@@ -160,7 +160,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-              <h3><a href="single-post.html">Klantenservice ★ ★ ★ ★</a></h3>
+              <h3>Klantenservice ★ ★ ★ ★</a></h3>
             </div>
             <div class="blog-post-des">
                 <p>
@@ -169,7 +169,7 @@
               <br>
             </div>
             <div class="blog-post-title">
-              <h3><a href="single-post.html">Kosten ★ ★ ★ ★</a></h3>
+              <h3>Kosten ★ ★ ★ ★</a></h3>
             </div>
             <div class="blog-post-des">
                 <p>
@@ -242,18 +242,17 @@
   <!-- Footer Section -->
 
   <footer>
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12 text-center">
-          <h3>Neuron Studio</h3>
-          <p>Hier de beste dating vergelijking site</p>
-          <div class="footer-copyright">
-            <p>Copyright &copy; 2017 Impact4ROI </p>
+      <div class="container">
+          <div class="row">
+              <br>
+              <div class="wow fadeInUp col-md-12 text-center" data-wow-delay="0.3s">
+                  <h3>Volg ons ook op social media!</h3>
+                  <a href="https://www.instagram.com/flirtgids_nl/"><i class="fa fa-instagram icon"></i></a>
+                  <a href="https://twitter.com/Flirtgids_NL?lang=nl"><i class="fa fa-twitter icon"></i></a>
+                  <a href="https://www.facebook.com/FlirtGids-124043518251469/?ref=br_tf"><i class="fa fa-facebook icon"></i></a>
+              </div>
           </div>
-        </div>
       </div>
-    </div>
 
     <!-- end Star Ratings -->
   </footer>
