@@ -224,16 +224,20 @@
     <?php
             $stars =  '<div class="row flex">
                     <fieldset class="rating">
-                    <input type="radio" id="star5" name="rating" value="5" /><label class = "full" for="star5" title="Awesome -  stars"></label>
+                    <input type="radio" id="star5" name="rating" value="" /><label class = "full" for="star5" title="Awesome -  stars"></label>
                     <input type="radio" id="star4half" name="rating" value="5" /><label class="half" for="star4half" title="goed - 5 stars"></label>
-                    <input type="radio" id="star4" name="rating" value="4" /><label class = "full" for="star4" title="Pretty good -  stars"></label>
+                    <input type="radio" id="star4" name="rating" value="" /><label class = "full" for="star4" title="Pretty good -  stars"></label>
                     <input type="radio" id="star3half" name="rating" value="4" /><label class="half" for="star3half" title="voldoende - 4 stars"></label>
-                    <input type="radio" id="star3" name="rating" value="3" /><label class = "full" for="star3" title="Meh -  stars"></label>
+                    <input type="radio" id="star3" name="rating" value="" /><label class = "full" for="star3" title="Meh -  stars"></label>
                     <input type="radio" id="star2half" name="rating" value="3" /><label class="half" for="star2half" title="redelijk - 3 stars"></label>
-                    <input type="radio" id="star2" name="rating" value="2" /><label class = "full" for="star2" title="Kinda bad -  stars"></label>
+                    <input type="radio" id="star2" name="rating" value="" /><label class = "full" for="star2" title="Kinda bad -  stars"></label>
                     <input type="radio" id="star1half" name="rating" value="2" /><label class="half" for="star1half" title="matig - 2 stars"></label>
-                    <input type="radio" id="star1" name="rating" value="1" /><label class = "full" for="star1" title="Sucks big time -  star"></label>
-                    <input type="radio" id="starhalf" name="rating" value="1" /><label class="half" for="starhalf" title="slecht - 1 stars"></label>
+                    <input type="radio" id="star1" name="rating" value="" /><label class = "full" for="star1" title="Sucks big time -  star"></label>
+                    <input type="radio" id="starhalf" name="rating" value="1"
+                    'if ($result->fetch_array()["avg"] = < 1){
+                      document.getElementById("starhalf").innerHTML = checked 
+                    } '
+                    /><label class="half" for="starhalf" title="slecht - 1 stars" ></label>
                     </fieldset>
 
                  </div>';
